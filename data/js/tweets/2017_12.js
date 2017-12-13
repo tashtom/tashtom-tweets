@@ -1,6 +1,1752 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 12 21:03:16 +0000 2017",
+		"id": 940688527041417200,
+		"id_str": "940688527041417216",
+		"text": "RT @AndyRichter: Horse Twitter Comes for Roy Moore  https://t.co/zxlP0w3L2v via @Splinter_news",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndyRichter",
+					"name": "Andy Richter",
+					"id": 165511377,
+					"id_str": "165511377",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "splinter_news",
+					"name": "Splinter",
+					"id": 121817564,
+					"id_str": "121817564",
+					"indices": [
+						80,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zxlP0w3L2v",
+					"expanded_url": "http://splinternews.com/horse-twitter-comes-for-roy-moore-1821227717?utm_medium=sharefromsite&utm_source=Splinter_twitter",
+					"display_url": "splinternews.com/horse-twitter-…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 772,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6926,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 20:40:39 +0000 2017",
+			"id": 940682833692987400,
+			"id_str": "940682833692987392",
+			"text": "Horse Twitter Comes for Roy Moore  https://t.co/zxlP0w3L2v via @Splinter_news",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "splinter_news",
+						"name": "Splinter",
+						"id": 121817564,
+						"id_str": "121817564",
+						"indices": [
+							63,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zxlP0w3L2v",
+						"expanded_url": "http://splinternews.com/horse-twitter-comes-for-roy-moore-1821227717?utm_medium=sharefromsite&utm_source=Splinter_twitter",
+						"display_url": "splinternews.com/horse-twitter-…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 165511377,
+				"id_str": "165511377",
+				"name": "Andy Richter",
+				"screen_name": "AndyRichter",
+				"location": "Burbank, CA",
+				"description": "actor/writer from Midwestern U.S., married to @SarahThyre, father of two",
+				"url": "https://t.co/C7Jqp9zGZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C7Jqp9zGZV",
+								"expanded_url": "http://teamcoco.com",
+								"display_url": "teamcoco.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 983865,
+				"friends_count": 1105,
+				"listed_count": 10011,
+				"created_at": "Sun Jul 11 19:53:21 +0000 2010",
+				"favourites_count": 109463,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/265909860/phil_harris.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/265909860/phil_harris.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/632781695331213312/_GsUcf-m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/632781695331213312/_GsUcf-m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/165511377/1505971978",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 233,
+			"favorite_count": 777,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 20:53:04 +0000 2017",
+		"id": 940685958105755600,
+		"id_str": "940685958105755648",
+		"text": "RT @Protohedgehog: Seriously, use @unpaywall - unlike SciHub, it actually encourages culture change through legal methods of #openaccess. U…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Protohedgehog",
+					"name": "Jon Tennant",
+					"id": 352650591,
+					"id_str": "352650591",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "unpaywall",
+					"name": "Unpaywall",
+					"id": 799394402112184300,
+					"id_str": "799394402112184320",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 772,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6926,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 13:09:19 +0000 2017",
+			"id": 940569253010436100,
+			"id_str": "940569253010436096",
+			"text": "Seriously, use @unpaywall - unlike SciHub, it actually encourages culture change through legal methods of… https://t.co/6wFKNYL3uP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "unpaywall",
+						"name": "Unpaywall",
+						"id": 799394402112184300,
+						"id_str": "799394402112184320",
+						"indices": [
+							15,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6wFKNYL3uP",
+						"expanded_url": "https://twitter.com/i/web/status/940569253010436096",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 352650591,
+				"id_str": "352650591",
+				"name": "Jon Tennant",
+				"screen_name": "Protohedgehog",
+				"location": "Berlin, Germany",
+				"description": "Palaeontologist. Open Science Communication. I do @paleorXiv, @PLOSpaleo @OpenSci_MOOC. Tweets irresponsible & my own. Looked after by @l_matthia. Do epic shit.",
+				"url": "https://t.co/nLidH9ItYh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nLidH9ItYh",
+								"expanded_url": "http://fossilsandshit.com/",
+								"display_url": "fossilsandshit.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11486,
+				"friends_count": 931,
+				"listed_count": 751,
+				"created_at": "Wed Aug 10 22:31:37 +0000 2011",
+				"favourites_count": 66497,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 92517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926545912167583744/cocrzxXo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926545912167583744/cocrzxXo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/352650591/1480456618",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 939594876873666600,
+			"quoted_status_id_str": "939594876873666560",
+			"quoted_status": {
+				"created_at": "Sat Dec 09 20:37:30 +0000 2017",
+				"id": 939594876873666600,
+				"id_str": "939594876873666560",
+				"text": "Need to read a research paper that's hidden behind a paywall? \n\nThe proliferation of knowledge - You're welcome: https://t.co/KafbSQCRYa",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/KafbSQCRYa",
+							"expanded_url": "http://unpaywall.org/",
+							"display_url": "unpaywall.org",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 144135714,
+					"id_str": "144135714",
+					"name": "Jonathan Fass",
+					"screen_name": "JonFass",
+					"location": "",
+					"description": "I dabble in execise and rehab stuff, and I used to work for a Royal Prince. Opinions are my own, and you wouldn't want them anyway...imo",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1433,
+					"friends_count": 174,
+					"listed_count": 32,
+					"created_at": "Sat May 15 11:53:26 +0000 2010",
+					"favourites_count": 343,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1694,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3310704637/3b0de66dc905ef0932461a0861e42018_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3310704637/3b0de66dc905ef0932461a0861e42018_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/144135714/1449497135",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 26,
+				"favorite_count": 26,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 37,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 939594876873666600,
+		"quoted_status_id_str": "939594876873666560",
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 18:06:24 +0000 2017",
+		"id": 940644015707447300,
+		"id_str": "940644015707447296",
+		"text": "RT @meakoopa: a Frasier prequel would rule bc Frasier &amp; Niles' mom and dad met when he was a cop at a homicide and she was a psychiatrist c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meakoopa",
+					"name": "Anthony Oliveira",
+					"id": 130051975,
+					"id_str": "130051975",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 772,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6926,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 27 05:58:24 +0000 2017",
+			"id": 935024989543239700,
+			"id_str": "935024989543239680",
+			"text": "a Frasier prequel would rule bc Frasier &amp; Niles' mom and dad met when he was a cop at a homicide and she was a psyc… https://t.co/7Cih1QlVjc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7Cih1QlVjc",
+						"expanded_url": "https://twitter.com/i/web/status/935024989543239680",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130051975,
+				"id_str": "130051975",
+				"name": "Anthony Oliveira",
+				"screen_name": "meakoopa",
+				"location": "",
+				"description": "PhD | tv | film | comics | art | culture | politics | queer | University of Toronto | contributor: BMD, TORONTOIST, TIFF, QUEER BIBLE | etc | dumpster raccoon",
+				"url": "https://t.co/srh3t1zchV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/srh3t1zchV",
+								"expanded_url": "http://birthmoviesdeath.com/author/anthony.oliveira",
+								"display_url": "birthmoviesdeath.com/author/anthony…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48513,
+				"friends_count": 1323,
+				"listed_count": 660,
+				"created_at": "Tue Apr 06 04:48:37 +0000 2010",
+				"favourites_count": 89770,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76082,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "676278",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672193393720737792/OmfgpPRO.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672193393720737792/OmfgpPRO.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908757923811270656/A-mD7D61_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908757923811270656/A-mD7D61_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130051975/1447049856",
+				"profile_link_color": "4B088A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D1D1A3",
+				"profile_text_color": "212121",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 931,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 17:58:41 +0000 2017",
+		"id": 940642074491277300,
+		"id_str": "940642074491277312",
+		"text": "RT @SimonTanner: Awesome things (for academics) that did not exist on Christmas Day 10 years ago:\n\nCC0 (Creative Commons Zero)\nOpen Library…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimonTanner",
+					"name": "Simon Tanner",
+					"id": 1275921,
+					"id_str": "1275921",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 772,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6926,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 14:21:23 +0000 2017",
+			"id": 940225002556854300,
+			"id_str": "940225002556854272",
+			"text": "Awesome things (for academics) that did not exist on Christmas Day 10 years ago:\n\nCC0 (Creative Commons Zero)\nOpen… https://t.co/h3uJQnlXab",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h3uJQnlXab",
+						"expanded_url": "https://twitter.com/i/web/status/940225002556854272",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1275921,
+				"id_str": "1275921",
+				"name": "Simon Tanner",
+				"screen_name": "SimonTanner",
+				"location": "London, UK",
+				"description": "Digital Cultural Heritage Professor @kingsdh Focus = value, impact & strategy of digital to culture & heritage ProVice Dean (Impact & Innovation) @kingsartshums",
+				"url": "https://t.co/DBtu91vdaQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DBtu91vdaQ",
+								"expanded_url": "http://www.facetpublishing.co.uk/title.php?id=049320",
+								"display_url": "facetpublishing.co.uk/title.php?id=0…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4828,
+				"friends_count": 2933,
+				"listed_count": 353,
+				"created_at": "Fri Mar 16 09:54:28 +0000 2007",
+				"favourites_count": 742,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18667,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B88D28",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182110161/DwJjthuf.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182110161/DwJjthuf.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823200916581007360/4pTIWDFn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823200916581007360/4pTIWDFn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1275921/1398689806",
+				"profile_link_color": "993333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D8C779",
+				"profile_text_color": "423E2C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 167,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 12:09:35 +0000 2017",
+		"id": 940554222554280000,
+		"id_str": "940554222554279938",
+		"text": "RT @41Strange: 'Tis the Season Holiday Card Assortment from Edward Gorey https://t.co/qoX93mZnkm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "41Strange",
+					"name": "41 Strange",
+					"id": 2355808260,
+					"id_str": "2355808260",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 940337204194304000,
+					"id_str": "940337204194304000",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+					"url": "https://t.co/qoX93mZnkm",
+					"display_url": "pic.twitter.com/qoX93mZnkm",
+					"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940338232230735900,
+					"source_status_id_str": "940338232230735873",
+					"source_user_id": 2355808260,
+					"source_user_id_str": "2355808260"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 940337204194304000,
+					"id_str": "940337204194304000",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+					"url": "https://t.co/qoX93mZnkm",
+					"display_url": "pic.twitter.com/qoX93mZnkm",
+					"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940338232230735900,
+					"source_status_id_str": "940338232230735873",
+					"source_user_id": 2355808260,
+					"source_user_id_str": "2355808260"
+				},
+				{
+					"id": 940337250746769400,
+					"id_str": "940337250746769408",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DQy_v1fUIAAGDlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQy_v1fUIAAGDlg.jpg",
+					"url": "https://t.co/qoX93mZnkm",
+					"display_url": "pic.twitter.com/qoX93mZnkm",
+					"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940338232230735900,
+					"source_status_id_str": "940338232230735873",
+					"source_user_id": 2355808260,
+					"source_user_id_str": "2355808260"
+				},
+				{
+					"id": 940337274654310400,
+					"id_str": "940337274654310400",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DQy_xOjUQAAU-yX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQy_xOjUQAAU-yX.jpg",
+					"url": "https://t.co/qoX93mZnkm",
+					"display_url": "pic.twitter.com/qoX93mZnkm",
+					"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 633,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 633,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940338232230735900,
+					"source_status_id_str": "940338232230735873",
+					"source_user_id": 2355808260,
+					"source_user_id_str": "2355808260"
+				},
+				{
+					"id": 940337304371044400,
+					"id_str": "940337304371044352",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DQy_y9QVoAAgibE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQy_y9QVoAAgibE.jpg",
+					"url": "https://t.co/qoX93mZnkm",
+					"display_url": "pic.twitter.com/qoX93mZnkm",
+					"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 695,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1319,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940338232230735900,
+					"source_status_id_str": "940338232230735873",
+					"source_user_id": 2355808260,
+					"source_user_id_str": "2355808260"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 772,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6926,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 21:51:19 +0000 2017",
+			"id": 940338232230735900,
+			"id_str": "940338232230735873",
+			"text": "'Tis the Season Holiday Card Assortment from Edward Gorey https://t.co/qoX93mZnkm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940337204194304000,
+						"id_str": "940337204194304000",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+						"url": "https://t.co/qoX93mZnkm",
+						"display_url": "pic.twitter.com/qoX93mZnkm",
+						"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 445,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 445,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 445,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940337204194304000,
+						"id_str": "940337204194304000",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQy_tIEV4AAp0tD.jpg",
+						"url": "https://t.co/qoX93mZnkm",
+						"display_url": "pic.twitter.com/qoX93mZnkm",
+						"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 445,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 445,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 445,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 940337250746769400,
+						"id_str": "940337250746769408",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DQy_v1fUIAAGDlg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQy_v1fUIAAGDlg.jpg",
+						"url": "https://t.co/qoX93mZnkm",
+						"display_url": "pic.twitter.com/qoX93mZnkm",
+						"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 1034,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 1034,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 484,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 940337274654310400,
+						"id_str": "940337274654310400",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DQy_xOjUQAAU-yX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQy_xOjUQAAU-yX.jpg",
+						"url": "https://t.co/qoX93mZnkm",
+						"display_url": "pic.twitter.com/qoX93mZnkm",
+						"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 633,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 633,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 940337304371044400,
+						"id_str": "940337304371044352",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DQy_y9QVoAAgibE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQy_y9QVoAAgibE.jpg",
+						"url": "https://t.co/qoX93mZnkm",
+						"display_url": "pic.twitter.com/qoX93mZnkm",
+						"expanded_url": "https://twitter.com/41Strange/status/940338232230735873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 695,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1319,
+								"h": 764,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2355808260,
+				"id_str": "2355808260",
+				"name": "41 Strange",
+				"screen_name": "41Strange",
+				"location": "Hollywood, CA",
+				"description": "Horror short stories bestseller out now",
+				"url": "https://t.co/oqS9QNCpQP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oqS9QNCpQP",
+								"expanded_url": "http://41strange.com",
+								"display_url": "41strange.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74868,
+				"friends_count": 6991,
+				"listed_count": 1019,
+				"created_at": "Sat Feb 22 05:04:53 +0000 2014",
+				"favourites_count": 49940,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080403",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453322198996905984/VHw04pe7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453322198996905984/VHw04pe7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2355808260/1405535968",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 332,
+			"favorite_count": 870,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 12 10:34:43 +0000 2017",
+		"id": 940530347816767500,
+		"id_str": "940530347816767489",
+		"text": "RT @DSMeu: The ways people watch TV are changing. 67% of young Europeans do it online. We propose to update the rules and increase cross-bo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSMeu",
+					"name": "DigitalSingleMarket",
+					"id": 205315827,
+					"id_str": "205315827",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 772,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6926,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 10:34:16 +0000 2017",
+			"id": 940530232066498600,
+			"id_str": "940530232066498561",
+			"text": "The ways people watch TV are changing. 67% of young Europeans do it online. We propose to update the rules and incr… https://t.co/StYFSTHUin",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/StYFSTHUin",
+						"expanded_url": "https://twitter.com/i/web/status/940530232066498561",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 205315827,
+				"id_str": "205315827",
+				"name": "DigitalSingleMarket",
+				"screen_name": "DSMeu",
+				"location": "Europe",
+				"description": "Official EU account for European #DigitalSingleMarket. Maximising the potential of ICT in Europe is our goal. We work closely with @Ansip_EU & @GabrielMariya",
+				"url": "https://t.co/zZQBCYNgsg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zZQBCYNgsg",
+								"expanded_url": "http://ec.europa.eu/digital-single-market/",
+								"display_url": "ec.europa.eu/digital-single…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78065,
+				"friends_count": 4054,
+				"listed_count": 4045,
+				"created_at": "Wed Oct 20 16:03:38 +0000 2010",
+				"favourites_count": 7086,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41641,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471936711/Twitter_simple_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471936711/Twitter_simple_background.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930019056584929280/vVYcPdTv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930019056584929280/vVYcPdTv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/205315827/1505310914",
+				"profile_link_color": "6E3D81",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 12 01:08:39 +0000 2017",
 		"id": 940387891431333900,
 		"id_str": "940387891431333888",
