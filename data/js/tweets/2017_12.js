@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 16 17:49:12 +0000 2017",
+		"id": 942089240351051800,
+		"id_str": "942089240351051776",
+		"text": "RT @alistaircoleman: \"Surely you've remembered the word 'youthquake'? It's such a common word\" https://t.co/Ci6y9qXzI0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alistaircoleman",
+					"name": "Alistair Coleman",
+					"id": 57233,
+					"id_str": "57233",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 941609325415592000,
+					"id_str": "941609325415591936",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+					"url": "https://t.co/Ci6y9qXzI0",
+					"display_url": "pic.twitter.com/Ci6y9qXzI0",
+					"expanded_url": "https://twitter.com/alistaircoleman/status/941609389840007168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941609389840007200,
+					"source_status_id_str": "941609389840007168",
+					"source_user_id": 57233,
+					"source_user_id_str": "57233"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941609325415592000,
+					"id_str": "941609325415591936",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+					"url": "https://t.co/Ci6y9qXzI0",
+					"display_url": "pic.twitter.com/Ci6y9qXzI0",
+					"expanded_url": "https://twitter.com/alistaircoleman/status/941609389840007168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941609389840007200,
+					"source_status_id_str": "941609389840007168",
+					"source_user_id": 57233,
+					"source_user_id_str": "57233"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 774,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6969,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 15 10:02:27 +0000 2017",
+			"id": 941609389840007200,
+			"id_str": "941609389840007168",
+			"text": "\"Surely you've remembered the word 'youthquake'? It's such a common word\" https://t.co/Ci6y9qXzI0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 941609325415592000,
+						"id_str": "941609325415591936",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+						"url": "https://t.co/Ci6y9qXzI0",
+						"display_url": "pic.twitter.com/Ci6y9qXzI0",
+						"expanded_url": "https://twitter.com/alistaircoleman/status/941609389840007168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 941609325415592000,
+						"id_str": "941609325415591936",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRFEsU6XcAAyOk_.jpg",
+						"url": "https://t.co/Ci6y9qXzI0",
+						"display_url": "pic.twitter.com/Ci6y9qXzI0",
+						"expanded_url": "https://twitter.com/alistaircoleman/status/941609389840007168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57233,
+				"id_str": "57233",
+				"name": "Alistair Coleman",
+				"screen_name": "alistaircoleman",
+				"location": "Fleet, UK",
+				"description": "North Korea, cyber-security, terrorism, media news and BBC News From Elsewhere at @BBCMonitoring. Curates Angry People in Local Newspapers.",
+				"url": "https://t.co/Q88RqQVRsc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q88RqQVRsc",
+								"expanded_url": "http://bbc.com/newsfromelsewhere",
+								"display_url": "bbc.com/newsfromelsewh…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7502,
+				"friends_count": 635,
+				"listed_count": 284,
+				"created_at": "Mon Dec 11 12:09:29 +0000 2006",
+				"favourites_count": 1051,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000033",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/141619327/tw-back.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/141619327/tw-back.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892858391978065920/Y5fi2gM1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892858391978065920/Y5fi2gM1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57233/1497727100",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "CCCCFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 358,
+			"favorite_count": 759,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 358,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 16 17:44:22 +0000 2017",
+		"id": 942088022455214100,
+		"id_str": "942088022455214081",
+		"text": "RT @interscriptUCL: Exciting news! You can attend @UCLpress's Open Access Megajournal platform launch next month in London #openaccess #eve…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "interscriptUCL",
+					"name": "Interscript",
+					"id": 4349910016,
+					"id_str": "4349910016",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "UCLpress",
+					"name": "UCL Press",
+					"id": 2255340865,
+					"id_str": "2255340865",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 774,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 6969,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 16 10:00:25 +0000 2017",
+			"id": 941971267036512300,
+			"id_str": "941971267036512256",
+			"text": "Exciting news! You can attend @UCLpress's Open Access Megajournal platform launch next month in London #openaccess… https://t.co/v2eW1jWzGv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openaccess",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UCLpress",
+						"name": "UCL Press",
+						"id": 2255340865,
+						"id_str": "2255340865",
+						"indices": [
+							30,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/v2eW1jWzGv",
+						"expanded_url": "https://twitter.com/i/web/status/941971267036512256",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4349910016,
+				"id_str": "4349910016",
+				"name": "Interscript",
+				"screen_name": "interscriptUCL",
+				"location": "Worldwide",
+				"description": "Interscript drives debate on advances in the publishing world. We publish a peer-reviewed OA journal through @UCLPress and an online magazine.",
+				"url": "https://t.co/0PHh22cGzd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0PHh22cGzd",
+								"expanded_url": "http://interscriptjournal.com",
+								"display_url": "interscriptjournal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 410,
+				"friends_count": 315,
+				"listed_count": 13,
+				"created_at": "Wed Dec 02 11:03:17 +0000 2015",
+				"favourites_count": 430,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 523,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "008080",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823480180316504064/t4viMwA__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823480180316504064/t4viMwA__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4349910016/1485167316",
+				"profile_link_color": "008080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 16 01:30:31 +0000 2017",
 		"id": 941842947364020200,
 		"id_str": "941842947364020230",
