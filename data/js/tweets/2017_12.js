@@ -1,6 +1,117 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 30 19:55:42 +0000 2017",
+		"id": 947194503684939800,
+		"id_str": "947194503684939776",
+		"text": "@JuliaHB1 What's a remoanabore? Why are you trying to insult people with an opposing viewpoint? Is it because you'v… https://t.co/msGQwaGe8e",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JuliaHB1",
+					"name": "Julia Hartley-Brewer",
+					"id": 459390022,
+					"id_str": "459390022",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/msGQwaGe8e",
+					"expanded_url": "https://twitter.com/i/web/status/947194503684939776",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 946442166267732000,
+		"in_reply_to_status_id_str": "946442166267731973",
+		"in_reply_to_user_id": 459390022,
+		"in_reply_to_user_id_str": "459390022",
+		"in_reply_to_screen_name": "JuliaHB1",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 775,
+			"listed_count": 50,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7196,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 29 23:06:22 +0000 2017",
 		"id": 946880098594185200,
 		"id_str": "946880098594185219",
@@ -1285,7 +1396,7 @@ Grailbird.data.tweets_2017_12 =
 				},
 				{
 					"screen_name": "Alt_Spicerlies",
-					"name": "Alt_SeanSpicer'sMic🎙🤦🏻‍♀️🎙",
+					"name": "Alt_SeanSpicer'sMic🎙🤦🏻♀️🎙",
 					"id": 870847538651443200,
 					"id_str": "870847538651443201",
 					"indices": [
@@ -1417,7 +1528,7 @@ Grailbird.data.tweets_2017_12 =
 				"user_mentions": [
 					{
 						"screen_name": "Alt_Spicerlies",
-						"name": "Alt_SeanSpicer'sMic🎙🤦🏻‍♀️🎙",
+						"name": "Alt_SeanSpicer'sMic🎙🤦🏻♀️🎙",
 						"id": 870847538651443200,
 						"id_str": "870847538651443201",
 						"indices": [
