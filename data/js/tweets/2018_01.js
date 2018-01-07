@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 06 20:10:44 +0000 2018",
+		"id": 949735003679797200,
+		"id_str": "949735003679797248",
+		"text": "RT @lienhart85: Digitized business periodicals collection, New York Public Library https://t.co/ddR4eTWqCu https://t.co/OxzafM59f3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lienhart85",
+					"name": "Century Past History",
+					"id": 2161582903,
+					"id_str": "2161582903",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ddR4eTWqCu",
+					"expanded_url": "https://www.nypl.org/blog/2017/12/05/digitized-historical-business-periodicals-pt-1",
+					"display_url": "nypl.org/blog/2017/12/0…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 949254673231466500,
+					"id_str": "949254673231466496",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+					"url": "https://t.co/OxzafM59f3",
+					"display_url": "pic.twitter.com/OxzafM59f3",
+					"expanded_url": "https://twitter.com/lienhart85/status/949320588107108352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 933,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949320588107108400,
+					"source_status_id_str": "949320588107108352",
+					"source_user_id": 2161582903,
+					"source_user_id_str": "2161582903"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949254673231466500,
+					"id_str": "949254673231466496",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+					"url": "https://t.co/OxzafM59f3",
+					"display_url": "pic.twitter.com/OxzafM59f3",
+					"expanded_url": "https://twitter.com/lienhart85/status/949320588107108352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 933,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949320588107108400,
+					"source_status_id_str": "949320588107108352",
+					"source_user_id": 2161582903,
+					"source_user_id_str": "2161582903"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 409,
+			"friends_count": 781,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7285,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 05 16:44:00 +0000 2018",
+			"id": 949320588107108400,
+			"id_str": "949320588107108352",
+			"text": "Digitized business periodicals collection, New York Public Library https://t.co/ddR4eTWqCu https://t.co/OxzafM59f3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ddR4eTWqCu",
+						"expanded_url": "https://www.nypl.org/blog/2017/12/05/digitized-historical-business-periodicals-pt-1",
+						"display_url": "nypl.org/blog/2017/12/0…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 949254673231466500,
+						"id_str": "949254673231466496",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+						"url": "https://t.co/OxzafM59f3",
+						"display_url": "pic.twitter.com/OxzafM59f3",
+						"expanded_url": "https://twitter.com/lienhart85/status/949320588107108352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 622,
+								"h": 933,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 622,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949254673231466500,
+						"id_str": "949254673231466496",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSxuGI9XUAA4MIf.jpg",
+						"url": "https://t.co/OxzafM59f3",
+						"display_url": "pic.twitter.com/OxzafM59f3",
+						"expanded_url": "https://twitter.com/lienhart85/status/949320588107108352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 622,
+								"h": 933,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 622,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2161582903,
+				"id_str": "2161582903",
+				"name": "Century Past History",
+				"screen_name": "lienhart85",
+				"location": "United States",
+				"description": "Ted Lienhart sharing links to images, articles & resources - for people seeking historical understanding",
+				"url": "https://t.co/J5CL6JlVf0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J5CL6JlVf0",
+								"expanded_url": "http://www.envisionthepast.com",
+								"display_url": "envisionthepast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24055,
+				"friends_count": 26299,
+				"listed_count": 557,
+				"created_at": "Mon Oct 28 20:47:08 +0000 2013",
+				"favourites_count": 10721,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40965,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456573036238352384/h5ZPLV3Y.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456573036238352384/h5ZPLV3Y.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456001943031123968/RNWP5dsi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456001943031123968/RNWP5dsi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2161582903/1472401560",
+				"profile_link_color": "AD614F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 20:00:03 +0000 2018",
+		"id": 949732315349094400,
+		"id_str": "949732315349094400",
+		"text": "RT @f_francavilla: Fixed it. https://t.co/J8qQIf3smt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "f_francavilla",
+					"name": "FrancescoFrancavilla",
+					"id": 67761261,
+					"id_str": "67761261",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 949650575993417700,
+					"id_str": "949650575993417728",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+					"url": "https://t.co/J8qQIf3smt",
+					"display_url": "pic.twitter.com/J8qQIf3smt",
+					"expanded_url": "https://twitter.com/f_francavilla/status/949650588316422144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 348,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949650588316422100,
+					"source_status_id_str": "949650588316422144",
+					"source_user_id": 67761261,
+					"source_user_id_str": "67761261"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949650575993417700,
+					"id_str": "949650575993417728",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+					"url": "https://t.co/J8qQIf3smt",
+					"display_url": "pic.twitter.com/J8qQIf3smt",
+					"expanded_url": "https://twitter.com/f_francavilla/status/949650588316422144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 348,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949650588316422100,
+					"source_status_id_str": "949650588316422144",
+					"source_user_id": 67761261,
+					"source_user_id_str": "67761261"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 409,
+			"friends_count": 781,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7285,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 14:35:18 +0000 2018",
+			"id": 949650588316422100,
+			"id_str": "949650588316422144",
+			"text": "Fixed it. https://t.co/J8qQIf3smt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 949650575993417700,
+						"id_str": "949650575993417728",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+						"url": "https://t.co/J8qQIf3smt",
+						"display_url": "pic.twitter.com/J8qQIf3smt",
+						"expanded_url": "https://twitter.com/f_francavilla/status/949650588316422144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 474,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 474,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 474,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949650575993417700,
+						"id_str": "949650575993417728",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS3WKtrVMAAv5ts.jpg",
+						"url": "https://t.co/J8qQIf3smt",
+						"display_url": "pic.twitter.com/J8qQIf3smt",
+						"expanded_url": "https://twitter.com/f_francavilla/status/949650588316422144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 474,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 474,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 474,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67761261,
+				"id_str": "67761261",
+				"name": "FrancescoFrancavilla",
+				"screen_name": "f_francavilla",
+				"location": "U.S.A.",
+				"description": "NYTimes Best-selling Author, Award-winning Storyteller, Creator, Comicbook Writer & Artist, Illustrator, Panel Whisperer. Also: not a Robot.",
+				"url": "https://t.co/73vIUKAx4G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/73vIUKAx4G",
+								"expanded_url": "http://www.francescofrancavilla.com/",
+								"display_url": "francescofrancavilla.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47743,
+				"friends_count": 800,
+				"listed_count": 1349,
+				"created_at": "Sat Aug 22 00:09:29 +0000 2009",
+				"favourites_count": 2420,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 73173,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/714610060/672c444a286b8269d8f805327fa5ebeb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/714610060/672c444a286b8269d8f805327fa5ebeb.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929752679324233728/Ny36IRbh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929752679324233728/Ny36IRbh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67761261/1512191876",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 292,
+			"favorite_count": 921,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 05 20:55:59 +0000 2018",
 		"id": 949384002112249900,
 		"id_str": "949384002112249856",
