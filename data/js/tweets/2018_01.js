@@ -1,6 +1,1117 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 11 22:31:30 +0000 2018",
+		"id": 951582365637374000,
+		"id_str": "951582365637373952",
+		"text": "RT @MorningTrans: A #Map Shows What Every #Country in the World Calls Itself in its Own #Language: Explore the #Endonyms of the World Map -…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Map",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "Country",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "Language",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "Endonyms",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MorningTrans",
+					"name": "Morningside Trans",
+					"id": 83627015,
+					"id_str": "83627015",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 781,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7398,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 14:00:37 +0000 2018",
+			"id": 951453797490085900,
+			"id_str": "951453797490085889",
+			"text": "A #Map Shows What Every #Country in the World Calls Itself in its Own #Language: Explore the #Endonyms of the World… https://t.co/KYfXKadWiP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Map",
+						"indices": [
+							2,
+							6
+						]
+					},
+					{
+						"text": "Country",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"text": "Language",
+						"indices": [
+							70,
+							79
+						]
+					},
+					{
+						"text": "Endonyms",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KYfXKadWiP",
+						"expanded_url": "https://twitter.com/i/web/status/951453797490085889",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83627015,
+				"id_str": "83627015",
+				"name": "Morningside Trans",
+				"screen_name": "MorningTrans",
+				"location": "New York",
+				"description": "Morningside is a leading provider of document translation, interpretation, and localization services to the Global 500.",
+				"url": "http://t.co/uRwCeuUGHH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uRwCeuUGHH",
+								"expanded_url": "http://www.morningtrans.com",
+								"display_url": "morningtrans.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9288,
+				"friends_count": 10213,
+				"listed_count": 166,
+				"created_at": "Mon Oct 19 15:46:04 +0000 2009",
+				"favourites_count": 174,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "20416C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/50945306/msidetwitter2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/50945306/msidetwitter2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479601818163376128/JYryE6BD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479601818163376128/JYryE6BD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83627015/1404731430",
+				"profile_link_color": "CC6600",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 11 21:20:48 +0000 2018",
+		"id": 951564575132016600,
+		"id_str": "951564575132016640",
+		"text": "RT @MechCuratorBot: from 'The Aldine “O'er Land and Sea.” Library ...' (1890). More info: https://t.co/AOMOlxRHxL https://t.co/RuAfuEtg7A",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MechCuratorBot",
+					"name": "Mechanical Curator",
+					"id": 1926248808,
+					"id_str": "1926248808",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AOMOlxRHxL",
+					"expanded_url": "http://mechanicalcurator.tumblr.com/post/169591144767",
+					"display_url": "mechanicalcurator.tumblr.com/post/169591144…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 951562326850900000,
+					"id_str": "951562326850899969",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+					"url": "https://t.co/RuAfuEtg7A",
+					"display_url": "pic.twitter.com/RuAfuEtg7A",
+					"expanded_url": "https://twitter.com/MechCuratorBot/status/951562331288428544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1266,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951562331288428500,
+					"source_status_id_str": "951562331288428544",
+					"source_user_id": 1926248808,
+					"source_user_id_str": "1926248808"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951562326850900000,
+					"id_str": "951562326850899969",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+					"url": "https://t.co/RuAfuEtg7A",
+					"display_url": "pic.twitter.com/RuAfuEtg7A",
+					"expanded_url": "https://twitter.com/MechCuratorBot/status/951562331288428544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1266,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951562331288428500,
+					"source_status_id_str": "951562331288428544",
+					"source_user_id": 1926248808,
+					"source_user_id_str": "1926248808"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 781,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7398,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 21:11:53 +0000 2018",
+			"id": 951562331288428500,
+			"id_str": "951562331288428544",
+			"text": "from 'The Aldine “O'er Land and Sea.” Library ...' (1890). More info: https://t.co/AOMOlxRHxL https://t.co/RuAfuEtg7A",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AOMOlxRHxL",
+						"expanded_url": "http://mechanicalcurator.tumblr.com/post/169591144767",
+						"display_url": "mechanicalcurator.tumblr.com/post/169591144…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 951562326850900000,
+						"id_str": "951562326850899969",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+						"url": "https://t.co/RuAfuEtg7A",
+						"display_url": "pic.twitter.com/RuAfuEtg7A",
+						"expanded_url": "https://twitter.com/MechCuratorBot/status/951562331288428544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1266,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951562326850900000,
+						"id_str": "951562326850899969",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTSg5QmXkAEMUiH.jpg",
+						"url": "https://t.co/RuAfuEtg7A",
+						"display_url": "pic.twitter.com/RuAfuEtg7A",
+						"expanded_url": "https://twitter.com/MechCuratorBot/status/951562331288428544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1266,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://benosteen.com\" rel=\"nofollow\">SMS Gateway</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1926248808,
+				"id_str": "1926248808",
+				"name": "Mechanical Curator",
+				"screen_name": "MechCuratorBot",
+				"location": "",
+				"description": "Tweets links to selected small illustrations and ornamentations, posted on the hour. (Profile pic from http://t.co/WZO6qr2z0n)",
+				"url": "http://t.co/omrhsm1iwF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/omrhsm1iwF",
+								"expanded_url": "http://mechanicalcurator.tumblr.com",
+								"display_url": "mechanicalcurator.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/WZO6qr2z0n",
+								"expanded_url": "http://tmblr.co/ZUxJLqxeDvTy",
+								"display_url": "tmblr.co/ZUxJLqxeDvTy",
+								"indices": [
+									103,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2271,
+				"friends_count": 1,
+				"listed_count": 88,
+				"created_at": "Wed Oct 02 09:13:06 +0000 2013",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50060,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000599627120/1fa1bd5f90f6b1f1953659c2a24c43c1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000599627120/1fa1bd5f90f6b1f1953659c2a24c43c1_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 11 12:25:07 +0000 2018",
+		"id": 951429766124621800,
+		"id_str": "951429766124621824",
+		"text": "RT @Medium: “Macmillan to President: No, You Actually Can’t Suppress Books You Don’t Like” by @ElectricLit https://t.co/YUxZeseFqF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Medium",
+					"name": "Medium",
+					"id": 571202103,
+					"id_str": "571202103",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "ElectricLit",
+					"name": "Electric Literature",
+					"id": 69671186,
+					"id_str": "69671186",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YUxZeseFqF",
+					"expanded_url": "https://electricliterature.com/macmillan-to-president-no-you-actually-cant-suppress-books-you-don-t-like-d5e8d072277c",
+					"display_url": "electricliterature.com/macmillan-to-p…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 781,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7398,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 00:00:01 +0000 2018",
+			"id": 951242253204410400,
+			"id_str": "951242253204410368",
+			"text": "“Macmillan to President: No, You Actually Can’t Suppress Books You Don’t Like” by @ElectricLit https://t.co/YUxZeseFqF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ElectricLit",
+						"name": "Electric Literature",
+						"id": 69671186,
+						"id_str": "69671186",
+						"indices": [
+							82,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YUxZeseFqF",
+						"expanded_url": "https://electricliterature.com/macmillan-to-president-no-you-actually-cant-suppress-books-you-don-t-like-d5e8d072277c",
+						"display_url": "electricliterature.com/macmillan-to-p…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 571202103,
+				"id_str": "571202103",
+				"name": "Medium",
+				"screen_name": "Medium",
+				"location": "San Francisco, CA, US",
+				"description": "Words matter. Learn more at https://t.co/KXvi8xUeaK. For support go to @MediumSupport.",
+				"url": "https://t.co/JV5396gd2O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JV5396gd2O",
+								"expanded_url": "http://medium.com",
+								"display_url": "medium.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KXvi8xUeaK",
+								"expanded_url": "http://medium.com/about",
+								"display_url": "medium.com/about",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2331457,
+				"friends_count": 107,
+				"listed_count": 12369,
+				"created_at": "Fri May 04 20:16:39 +0000 2012",
+				"favourites_count": 6294,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/571202103/1503419565",
+				"profile_link_color": "00AB69",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 11 12:16:02 +0000 2018",
+		"id": 951427481659113500,
+		"id_str": "951427481659113473",
+		"text": "RT @grhmthmsn: I’m giving away this MISB Platinum Edition “Intel Ops” Transformers set to one of my followers! Please retweet to enter! The…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grhmthmsn",
+					"name": "Graham Thomson",
+					"id": 4155699963,
+					"id_str": "4155699963",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 781,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7398,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 10 18:58:12 +0000 2018",
+			"id": 951166301615075300,
+			"id_str": "951166301615075328",
+			"text": "I’m giving away this MISB Platinum Edition “Intel Ops” Transformers set to one of my followers! Please retweet to e… https://t.co/4eotJeC363",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4eotJeC363",
+						"expanded_url": "https://twitter.com/i/web/status/951166301615075328",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4155699963,
+				"id_str": "4155699963",
+				"name": "Graham Thomson",
+				"screen_name": "grhmthmsn",
+				"location": "United Kingdom",
+				"description": "Blogger, photographer, worrier. | IG https://t.co/3tkruHpRZp | Flickr https://t.co/1uA2Gca1ce",
+				"url": "https://t.co/bZMCy3hBH8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bZMCy3hBH8",
+								"expanded_url": "http://www.grhmthmsn.blog",
+								"display_url": "grhmthmsn.blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3tkruHpRZp",
+								"expanded_url": "http://www.instagram.com/grhmthmsn",
+								"display_url": "instagram.com/grhmthmsn",
+								"indices": [
+									37,
+									60
+								]
+							},
+							{
+								"url": "https://t.co/1uA2Gca1ce",
+								"expanded_url": "https://www.flickr.com/photos/grhmthmsn/",
+								"display_url": "flickr.com/photos/grhmthm…",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1093,
+				"friends_count": 250,
+				"listed_count": 21,
+				"created_at": "Tue Nov 10 10:23:05 +0000 2015",
+				"favourites_count": 61919,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943089165071200257/WiZPfm6Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943089165071200257/WiZPfm6Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4155699963/1514812531",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 282,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 10 23:49:20 +0000 2018",
 		"id": 951239566635229200,
 		"id_str": "951239566635229184",
