@@ -1,6 +1,976 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 14 02:01:12 +0000 2018",
+		"id": 952359913434632200,
+		"id_str": "952359913434632192",
+		"text": "RT @artofmmignola: This was the first drawing of Hellboy. https://t.co/Njto2eR1aX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "artofmmignola",
+					"name": "Mike Mignola",
+					"id": 114315370,
+					"id_str": "114315370",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 951496820793884700,
+					"id_str": "951496820793884677",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+					"url": "https://t.co/Njto2eR1aX",
+					"display_url": "pic.twitter.com/Njto2eR1aX",
+					"expanded_url": "https://twitter.com/artofmmignola/status/951497032077795328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 779,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 779,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951497032077795300,
+					"source_status_id_str": "951497032077795328",
+					"source_user_id": 114315370,
+					"source_user_id_str": "114315370"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951496820793884700,
+					"id_str": "951496820793884677",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+					"url": "https://t.co/Njto2eR1aX",
+					"display_url": "pic.twitter.com/Njto2eR1aX",
+					"expanded_url": "https://twitter.com/artofmmignola/status/951497032077795328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 779,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 779,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951497032077795300,
+					"source_status_id_str": "951497032077795328",
+					"source_user_id": 114315370,
+					"source_user_id_str": "114315370"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 783,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7436,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 16:52:25 +0000 2018",
+			"id": 951497032077795300,
+			"id_str": "951497032077795328",
+			"text": "This was the first drawing of Hellboy. https://t.co/Njto2eR1aX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 951496820793884700,
+						"id_str": "951496820793884677",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+						"url": "https://t.co/Njto2eR1aX",
+						"display_url": "pic.twitter.com/Njto2eR1aX",
+						"expanded_url": "https://twitter.com/artofmmignola/status/951497032077795328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 779,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 779,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 524,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951496820793884700,
+						"id_str": "951496820793884677",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTRlUThVQAUM5VX.jpg",
+						"url": "https://t.co/Njto2eR1aX",
+						"display_url": "pic.twitter.com/Njto2eR1aX",
+						"expanded_url": "https://twitter.com/artofmmignola/status/951497032077795328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 779,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 779,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 524,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114315370,
+				"id_str": "114315370",
+				"name": "Mike Mignola",
+				"screen_name": "artofmmignola",
+				"location": "Los Angeles, CA",
+				"description": "Creator of the Hellboy Universe and more...",
+				"url": "http://t.co/SDpvOL0Ybk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SDpvOL0Ybk",
+								"expanded_url": "http://artofmikemignola.com",
+								"display_url": "artofmikemignola.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65331,
+				"friends_count": 1611,
+				"listed_count": 1191,
+				"created_at": "Mon Feb 15 00:13:46 +0000 2010",
+				"favourites_count": 6294,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590998276339433472/gDdAzC-Q.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590998276339433472/gDdAzC-Q.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760204538775089152/B3gdhoKi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760204538775089152/B3gdhoKi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114315370/1398548760",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2571,
+			"favorite_count": 10799,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2571,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 13 20:17:17 +0000 2018",
+		"id": 952273364181291000,
+		"id_str": "952273364181291008",
+		"text": "@grhmthmsn  https://t.co/PhN38OJo8n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grhmthmsn",
+					"name": "Graham Thomson",
+					"id": 4155699963,
+					"id_str": "4155699963",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 952273353619968000,
+					"id_str": "952273353619968000",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DTcnkduWkAATOwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DTcnkduWkAATOwo.jpg",
+					"url": "https://t.co/PhN38OJo8n",
+					"display_url": "pic.twitter.com/PhN38OJo8n",
+					"expanded_url": "https://twitter.com/tashtom/status/952273364181291008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 952273353619968000,
+					"id_str": "952273353619968000",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DTcnkduWkAATOwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DTcnkduWkAATOwo.jpg",
+					"url": "https://t.co/PhN38OJo8n",
+					"display_url": "pic.twitter.com/PhN38OJo8n",
+					"expanded_url": "https://twitter.com/tashtom/status/952273364181291008/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							164
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DTcnkduWkAATOwo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 951423327293399000,
+		"in_reply_to_status_id_str": "951423327293399041",
+		"in_reply_to_user_id": 4155699963,
+		"in_reply_to_user_id_str": "4155699963",
+		"in_reply_to_screen_name": "grhmthmsn",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 783,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7436,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jan 13 20:01:13 +0000 2018",
+		"id": 952269321962754000,
+		"id_str": "952269321962754048",
+		"text": "RT @shibsu: https://t.co/1I5WvQHB2h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shibsu",
+					"name": "🐕",
+					"id": 917426306366758900,
+					"id_str": "917426306366758912",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 952125384878886900,
+					"id_str": "952125384878886912",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+					"url": "https://t.co/1I5WvQHB2h",
+					"display_url": "pic.twitter.com/1I5WvQHB2h",
+					"expanded_url": "https://twitter.com/shibsu/status/952125391224918017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952125391224918000,
+					"source_status_id_str": "952125391224918017",
+					"source_user_id": 917426306366758900,
+					"source_user_id_str": "917426306366758912"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 952125384878886900,
+					"id_str": "952125384878886912",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+					"url": "https://t.co/1I5WvQHB2h",
+					"display_url": "pic.twitter.com/1I5WvQHB2h",
+					"expanded_url": "https://twitter.com/shibsu/status/952125391224918017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952125391224918000,
+					"source_status_id_str": "952125391224918017",
+					"source_user_id": 917426306366758900,
+					"source_user_id_str": "917426306366758912"
+				},
+				{
+					"id": 952125384878907400,
+					"id_str": "952125384878907398",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DTag_jNW4AYvaai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTag_jNW4AYvaai.jpg",
+					"url": "https://t.co/1I5WvQHB2h",
+					"display_url": "pic.twitter.com/1I5WvQHB2h",
+					"expanded_url": "https://twitter.com/shibsu/status/952125391224918017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 594,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952125391224918000,
+					"source_status_id_str": "952125391224918017",
+					"source_user_id": 917426306366758900,
+					"source_user_id_str": "917426306366758912"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 783,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7436,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 13 10:29:17 +0000 2018",
+			"id": 952125391224918000,
+			"id_str": "952125391224918017",
+			"text": "https://t.co/1I5WvQHB2h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 952125384878886900,
+						"id_str": "952125384878886912",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+						"url": "https://t.co/1I5WvQHB2h",
+						"display_url": "pic.twitter.com/1I5WvQHB2h",
+						"expanded_url": "https://twitter.com/shibsu/status/952125391224918017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 674,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 952125384878886900,
+						"id_str": "952125384878886912",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTag_jNWkAA1Gpf.jpg",
+						"url": "https://t.co/1I5WvQHB2h",
+						"display_url": "pic.twitter.com/1I5WvQHB2h",
+						"expanded_url": "https://twitter.com/shibsu/status/952125391224918017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 674,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 952125384878907400,
+						"id_str": "952125384878907398",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DTag_jNW4AYvaai.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTag_jNW4AYvaai.jpg",
+						"url": "https://t.co/1I5WvQHB2h",
+						"display_url": "pic.twitter.com/1I5WvQHB2h",
+						"expanded_url": "https://twitter.com/shibsu/status/952125391224918017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 594,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 594,
+								"h": 594,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 594,
+								"h": 594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 917426306366758900,
+				"id_str": "917426306366758912",
+				"name": "🐕",
+				"screen_name": "shibsu",
+				"location": "dm for credit / removal hehe",
+				"description": "tweet '@shibsu shib' for an instant shibe pic. (once per min) • pls dm your shibes i love them. *i own no content posted*",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31915,
+				"friends_count": 15,
+				"listed_count": 391,
+				"created_at": "Mon Oct 09 16:27:31 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29906,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947645104847716363/LB7nnTEK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947645104847716363/LB7nnTEK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/917426306366758912/1507593143",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1505,
+			"favorite_count": 2615,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1505,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Jan 12 18:23:34 +0000 2018",
 		"id": 951882358755594200,
 		"id_str": "951882358755594240",
