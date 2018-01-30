@@ -1,6 +1,2078 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 00:34:39 +0000 2018",
+		"id": 958136339978969100,
+		"id_str": "958136339978969088",
+		"text": "@jroberts332 so did you really just kill Tailgate? Poor Cyclones 😢",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jroberts332",
+					"name": "James Roberts",
+					"id": 593136842,
+					"id_str": "593136842",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 593136842,
+		"in_reply_to_user_id_str": "593136842",
+		"in_reply_to_screen_name": "jroberts332",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 30 00:29:24 +0000 2018",
+		"id": 958135017368096800,
+		"id_str": "958135017368096768",
+		"text": "RT @jimwaterson: BuzzFeed has been leaked the government's latest internal Brexit impact analysis. It shows the UK being worse off under ev…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimwaterson",
+					"name": "Jim Waterson",
+					"id": 25275453,
+					"id_str": "25275453",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 29 21:37:12 +0000 2018",
+			"id": 958091682569969700,
+			"id_str": "958091682569969665",
+			"text": "BuzzFeed has been leaked the government's latest internal Brexit impact analysis. It shows the UK being worse off u… https://t.co/HSXI5emCCZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HSXI5emCCZ",
+						"expanded_url": "https://twitter.com/i/web/status/958091682569969665",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25275453,
+				"id_str": "25275453",
+				"name": "Jim Waterson",
+				"screen_name": "jimwaterson",
+				"location": "London via York",
+				"description": "Political editor at @buzzfeeduk. Want to talk? Email jim.waterson@buzzfeed.com / @ me / my DMs are open. Follow @BuzzFeedUKPol.",
+				"url": "https://t.co/bbyiBL9lqG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bbyiBL9lqG",
+								"expanded_url": "http://facebook.com/jimwaterson",
+								"display_url": "facebook.com/jimwaterson",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212281,
+				"friends_count": 2439,
+				"listed_count": 1729,
+				"created_at": "Thu Mar 19 12:03:34 +0000 2009",
+				"favourites_count": 13302,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48321,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/143474360/yorksmall.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/143474360/yorksmall.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759020915606695936/Y5OI7Rlm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759020915606695936/Y5OI7Rlm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25275453/1409002252",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3537,
+			"favorite_count": 2635,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3537,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 29 20:46:49 +0000 2018",
+		"id": 958079005332209700,
+		"id_str": "958079005332209664",
+		"text": "RT @forest_fr1ends: - i’m sorry to report little thomas said a ‘naughty’ word in class today.\n- really?, f**k sake thomas... https://t.co/K…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "forest_fr1ends",
+					"name": "forest fr1ends",
+					"id": 727195336574390300,
+					"id_str": "727195336574390272",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 29 19:29:10 +0000 2018",
+			"id": 958059462224425000,
+			"id_str": "958059462224424960",
+			"text": "- i’m sorry to report little thomas said a ‘naughty’ word in class today.\n- really?, f**k sake thomas... https://t.co/K9uHnsGY8M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 958059455660396500,
+						"id_str": "958059455660396552",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DUu1_7hXkAg61js.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUu1_7hXkAg61js.jpg",
+						"url": "https://t.co/K9uHnsGY8M",
+						"display_url": "pic.twitter.com/K9uHnsGY8M",
+						"expanded_url": "https://twitter.com/forest_fr1ends/status/958059462224424960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 440,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 662,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 662,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 958059455660396500,
+						"id_str": "958059455660396552",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DUu1_7hXkAg61js.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUu1_7hXkAg61js.jpg",
+						"url": "https://t.co/K9uHnsGY8M",
+						"display_url": "pic.twitter.com/K9uHnsGY8M",
+						"expanded_url": "https://twitter.com/forest_fr1ends/status/958059462224424960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 440,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 662,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 662,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 727195336574390300,
+				"id_str": "727195336574390272",
+				"name": "forest fr1ends",
+				"screen_name": "forest_fr1ends",
+				"location": "",
+				"description": "*PARODY ACCOUNT* no affiliation with 'Sylvanian Families'. for enquiries forestfr1endsx@gmail.com",
+				"url": "https://t.co/bNYlvTYhAf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bNYlvTYhAf",
+								"expanded_url": "https://mydonate.bt.com/fundraisers/festivefr1ends",
+								"display_url": "mydonate.bt.com/fundraisers/fe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110009,
+				"friends_count": 0,
+				"listed_count": 527,
+				"created_at": "Mon May 02 17:57:33 +0000 2016",
+				"favourites_count": 9063,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 343,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845584707362443264/J6DDkGqq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845584707362443264/J6DDkGqq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/727195336574390272/1514395903",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1125,
+			"favorite_count": 3163,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1125,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 29 20:46:04 +0000 2018",
+		"id": 958078815238082600,
+		"id_str": "958078815238082561",
+		"text": "@grhmthmsn @tainkirrahe @84Gears @CherokeeFemme  https://t.co/GcjUHRMpza",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grhmthmsn",
+					"name": "Graham Thomson",
+					"id": 4155699963,
+					"id_str": "4155699963",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "tainkirrahe",
+					"name": "Orion Twax and her Cavalcade of Knackered Robots",
+					"id": 4773305188,
+					"id_str": "4773305188",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "84Gears",
+					"name": "MisfitPessimist",
+					"id": 874150020,
+					"id_str": "874150020",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "CherokeeFemme",
+					"name": "but the question is, can you handle Mine?",
+					"id": 1491696648,
+					"id_str": "1491696648",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 958078805385601000,
+					"id_str": "958078805385601028",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUvHmO3W4AQSsxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUvHmO3W4AQSsxl.jpg",
+					"url": "https://t.co/GcjUHRMpza",
+					"display_url": "pic.twitter.com/GcjUHRMpza",
+					"expanded_url": "https://twitter.com/tashtom/status/958078815238082561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958078805385601000,
+					"id_str": "958078805385601028",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUvHmO3W4AQSsxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUvHmO3W4AQSsxl.jpg",
+					"url": "https://t.co/GcjUHRMpza",
+					"display_url": "pic.twitter.com/GcjUHRMpza",
+					"expanded_url": "https://twitter.com/tashtom/status/958078815238082561/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							81
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DUvHmO3W4AQSsxl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 958059020736258000,
+		"in_reply_to_status_id_str": "958059020736258049",
+		"in_reply_to_user_id": 4155699963,
+		"in_reply_to_user_id_str": "4155699963",
+		"in_reply_to_screen_name": "grhmthmsn",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jan 29 19:57:22 +0000 2018",
+		"id": 958066559234306000,
+		"id_str": "958066559234306051",
+		"text": "RT @wmarybeard: I shall of course need a good strong drink before I really read this !!! https://t.co/n3bPvp6SEi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wmarybeard",
+					"name": "mary beard",
+					"id": 230025585,
+					"id_str": "230025585",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n3bPvp6SEi",
+					"expanded_url": "https://twitter.com/gdnlongread/status/958042051169406976",
+					"display_url": "twitter.com/gdnlongread/st…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 29 19:27:19 +0000 2018",
+			"id": 958058998892322800,
+			"id_str": "958058998892322816",
+			"text": "I shall of course need a good strong drink before I really read this !!! https://t.co/n3bPvp6SEi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n3bPvp6SEi",
+						"expanded_url": "https://twitter.com/gdnlongread/status/958042051169406976",
+						"display_url": "twitter.com/gdnlongread/st…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 230025585,
+				"id_str": "230025585",
+				"name": "mary beard",
+				"screen_name": "wmarybeard",
+				"location": "",
+				"description": "Classicist",
+				"url": "http://t.co/0aY3VRFvI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0aY3VRFvI9",
+								"expanded_url": "http://timesonline.typepad.com/dons_life/",
+								"display_url": "timesonline.typepad.com/dons_life/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175312,
+				"friends_count": 643,
+				"listed_count": 1796,
+				"created_at": "Fri Dec 24 01:49:53 +0000 2010",
+				"favourites_count": 32949,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29786,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1211240291/twitterpic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211240291/twitterpic_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 958042051169407000,
+			"quoted_status_id_str": "958042051169406976",
+			"quoted_status": {
+				"created_at": "Mon Jan 29 18:19:59 +0000 2018",
+				"id": 958042051169407000,
+				"id_str": "958042051169406976",
+				"text": "How Mary Beard became Mary Beard: a preview of tomorrow's profile by @chiggi https://t.co/L5kSSls9xA",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "chiggi",
+							"name": "Charlotte Higgins",
+							"id": 15700308,
+							"id_str": "15700308",
+							"indices": [
+								69,
+								76
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 958041965282627600,
+							"id_str": "958041965282627585",
+							"indices": [
+								77,
+								100
+							],
+							"media_url": "http://pbs.twimg.com/media/DUumF2yWkAETPR-.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUumF2yWkAETPR-.jpg",
+							"url": "https://t.co/L5kSSls9xA",
+							"display_url": "pic.twitter.com/L5kSSls9xA",
+							"expanded_url": "https://twitter.com/gdnlongread/status/958042051169406976/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 820,
+									"h": 1020,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 820,
+									"h": 1020,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 547,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 958041965282627600,
+							"id_str": "958041965282627585",
+							"indices": [
+								77,
+								100
+							],
+							"media_url": "http://pbs.twimg.com/media/DUumF2yWkAETPR-.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUumF2yWkAETPR-.jpg",
+							"url": "https://t.co/L5kSSls9xA",
+							"display_url": "pic.twitter.com/L5kSSls9xA",
+							"expanded_url": "https://twitter.com/gdnlongread/status/958042051169406976/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 820,
+									"h": 1020,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 820,
+									"h": 1020,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 547,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2853449164,
+					"id_str": "2853449164",
+					"name": "The Long Read",
+					"screen_name": "gdnlongread",
+					"location": "London",
+					"description": "In-depth reporting, essays and profiles",
+					"url": "http://t.co/ilVKVTl57G",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ilVKVTl57G",
+									"expanded_url": "http://www.theguardian.com/the-long-read",
+									"display_url": "theguardian.com/the-long-read",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 55910,
+					"friends_count": 256,
+					"listed_count": 978,
+					"created_at": "Fri Oct 31 16:22:19 +0000 2014",
+					"favourites_count": 2206,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3548,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "005689",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/953595794292174848/pv8D7WPt_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/953595794292174848/pv8D7WPt_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2853449164/1516189940",
+					"profile_link_color": "7D0053",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 49,
+				"favorite_count": 103,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 37,
+			"favorite_count": 416,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 958042051169407000,
+		"quoted_status_id_str": "958042051169406976",
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 29 16:04:51 +0000 2018",
+		"id": 958008043664478200,
+		"id_str": "958008043664478209",
+		"text": "RT @mikeymikey: Hooooooly hell https://t.co/Fc7DnJa0wT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikeymikey",
+					"name": "mikeymikey",
+					"id": 12238262,
+					"id_str": "12238262",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 957662052704665600,
+					"id_str": "957662052704665600",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+					"url": "https://t.co/Fc7DnJa0wT",
+					"display_url": "pic.twitter.com/Fc7DnJa0wT",
+					"expanded_url": "https://twitter.com/mikeymikey/status/957662061210755072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 676,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 445,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957662061210755100,
+					"source_status_id_str": "957662061210755072",
+					"source_user_id": 12238262,
+					"source_user_id_str": "12238262"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 957662052704665600,
+					"id_str": "957662052704665600",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+					"url": "https://t.co/Fc7DnJa0wT",
+					"display_url": "pic.twitter.com/Fc7DnJa0wT",
+					"expanded_url": "https://twitter.com/mikeymikey/status/957662061210755072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 676,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 445,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957662061210755100,
+					"source_status_id_str": "957662061210755072",
+					"source_user_id": 12238262,
+					"source_user_id_str": "12238262"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 17:10:02 +0000 2018",
+			"id": 957662061210755100,
+			"id_str": "957662061210755072",
+			"text": "Hooooooly hell https://t.co/Fc7DnJa0wT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 957662052704665600,
+						"id_str": "957662052704665600",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+						"url": "https://t.co/Fc7DnJa0wT",
+						"display_url": "pic.twitter.com/Fc7DnJa0wT",
+						"expanded_url": "https://twitter.com/mikeymikey/status/957662061210755072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 676,
+								"h": 445,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 676,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 957662052704665600,
+						"id_str": "957662052704665600",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUpMkCJVQAAMuTd.jpg",
+						"url": "https://t.co/Fc7DnJa0wT",
+						"display_url": "pic.twitter.com/Fc7DnJa0wT",
+						"expanded_url": "https://twitter.com/mikeymikey/status/957662061210755072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 676,
+								"h": 445,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 676,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12238262,
+				"id_str": "12238262",
+				"name": "mikeymikey",
+				"screen_name": "mikeymikey",
+				"location": "Somewhere in WA",
+				"description": "I do I.T. and I actually enjoy it. Mac, Windows, Linux - you name it. I *might* know a 'lil python. All statements are my own; I do not speak for my employer.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1504,
+				"friends_count": 1208,
+				"listed_count": 84,
+				"created_at": "Mon Jan 14 22:03:41 +0000 2008",
+				"favourites_count": 8578,
+				"utc_offset": -32400,
+				"time_zone": "Alaska",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20756,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/515995145716502529/8UagKN4N_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/515995145716502529/8UagKN4N_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12238262/1412549070",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 131,
+			"favorite_count": 171,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 29 14:21:30 +0000 2018",
+		"id": 957982036098277400,
+		"id_str": "957982036098277378",
+		"text": "RT @JTullock: Well done Lego. Excellent use of your archive here. Thanks for all the fun. #HappyBirthdayBrick https://t.co/B6vqm7Q1Kl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyBirthdayBrick",
+					"indices": [
+						90,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JTullock",
+					"name": "Janice Tullock",
+					"id": 324574502,
+					"id_str": "324574502",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B6vqm7Q1Kl",
+					"expanded_url": "https://twitter.com/lego_group/status/957598657464844290",
+					"display_url": "twitter.com/lego_group/sta…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 17:48:24 +0000 2018",
+			"id": 957671716322529300,
+			"id_str": "957671716322529287",
+			"text": "Well done Lego. Excellent use of your archive here. Thanks for all the fun. #HappyBirthdayBrick https://t.co/B6vqm7Q1Kl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HappyBirthdayBrick",
+						"indices": [
+							76,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B6vqm7Q1Kl",
+						"expanded_url": "https://twitter.com/lego_group/status/957598657464844290",
+						"display_url": "twitter.com/lego_group/sta…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324574502,
+				"id_str": "324574502",
+				"name": "Janice Tullock",
+				"screen_name": "JTullock",
+				"location": "Usually Liverpool",
+				"description": "Archivist, consultant, fundraiser, genealogist, Soc. Gene. trustee, Clore Fellow. If you want to understand today, you have to search yesterday.  ~Pearl Buck",
+				"url": "http://t.co/nGr5gaV2wd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nGr5gaV2wd",
+								"expanded_url": "http://www.janicetullock.co.uk",
+								"display_url": "janicetullock.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1306,
+				"friends_count": 1035,
+				"listed_count": 51,
+				"created_at": "Sun Jun 26 21:33:00 +0000 2011",
+				"favourites_count": 8359,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738368917144494080/4k0QDv5v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738368917144494080/4k0QDv5v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324574502/1421253671",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 957598657464844300,
+			"quoted_status_id_str": "957598657464844290",
+			"quoted_status": {
+				"created_at": "Sun Jan 28 12:58:05 +0000 2018",
+				"id": 957598657464844300,
+				"id_str": "957598657464844290",
+				"text": "60 years ago today (at this exact minute) a very special patent was signed, and the LEGO brick was born! Oh, how ti… https://t.co/j9jS3aT6Js",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/j9jS3aT6Js",
+							"expanded_url": "https://twitter.com/i/web/status/957598657464844290",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 295325513,
+					"id_str": "295325513",
+					"name": "LEGO",
+					"screen_name": "LEGO_Group",
+					"location": "",
+					"description": "Hello! You made it to the official LEGO Twitter account. We’ll show you around! 😀",
+					"url": "http://t.co/6h5AxceKSr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/6h5AxceKSr",
+									"expanded_url": "http://www.LEGO.com",
+									"display_url": "LEGO.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 504134,
+					"friends_count": 820,
+					"listed_count": 2910,
+					"created_at": "Sun May 08 20:06:36 +0000 2011",
+					"favourites_count": 31054,
+					"utc_offset": 3600,
+					"time_zone": "Copenhagen",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 36079,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000002594595/f8661461e58f0ea38c4a784a5478ee3f.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000002594595/f8661461e58f0ea38c4a784a5478ee3f.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/940608855125487618/-W2tTgtk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/940608855125487618/-W2tTgtk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/295325513/1517138590",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9002,
+				"favorite_count": 20236,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 13,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 957598657464844300,
+		"quoted_status_id_str": "957598657464844290",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 29 09:22:01 +0000 2018",
+		"id": 957906670474186800,
+		"id_str": "957906670474186753",
+		"text": "RT @TonyTassell: So the billionaire backer of the hard-Brexit advocate Legatum Institute has taken EU citizenship via Malta - scoop by @cyn…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TonyTassell",
+					"name": "Tony Tassell",
+					"id": 22021397,
+					"id_str": "22021397",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 791,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7791,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 29 08:18:31 +0000 2018",
+			"id": 957890689022427100,
+			"id_str": "957890689022427136",
+			"text": "So the billionaire backer of the hard-Brexit advocate Legatum Institute has taken EU citizenship via Malta - scoop… https://t.co/t7dn597YoI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t7dn597YoI",
+						"expanded_url": "https://twitter.com/i/web/status/957890689022427136",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22021397,
+				"id_str": "22021397",
+				"name": "Tony Tassell",
+				"screen_name": "TonyTassell",
+				"location": "London",
+				"description": "Sightings on markets, companies and world affairs from the FT's Deputy  News Editor. Started out in hot-metal era as copyboy on Adelaide News. Views my own",
+				"url": "http://t.co/177fJYUUBM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/177fJYUUBM",
+								"expanded_url": "http://www.ft.com",
+								"display_url": "ft.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7439,
+				"friends_count": 6627,
+				"listed_count": 302,
+				"created_at": "Thu Feb 26 15:34:36 +0000 2009",
+				"favourites_count": 2498,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14049,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895606838804316160/RToP3t1W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895606838804316160/RToP3t1W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22021397/1502363883",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1480,
+			"favorite_count": 879,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1480,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 28 21:57:49 +0000 2018",
 		"id": 957734485747003400,
 		"id_str": "957734485747003392",
