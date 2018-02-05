@@ -1,6 +1,1428 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 05 00:23:40 +0000 2018",
+		"id": 960307903528828900,
+		"id_str": "960307903528828928",
+		"text": "RT @Vigadeath: Do you know what a young Han Solo production feels like? Young Indiana Jones. EXACTLY like that. https://t.co/3z1edv2uK4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vigadeath",
+					"name": "Captain Death",
+					"id": 203562874,
+					"id_str": "203562874",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3z1edv2uK4",
+					"expanded_url": "https://twitter.com/starwars/status/960298267677417473",
+					"display_url": "twitter.com/starwars/statu…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 797,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7982,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 05 00:18:03 +0000 2018",
+			"id": 960306491612950500,
+			"id_str": "960306491612950528",
+			"text": "Do you know what a young Han Solo production feels like? Young Indiana Jones. EXACTLY like that. https://t.co/3z1edv2uK4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3z1edv2uK4",
+						"expanded_url": "https://twitter.com/starwars/status/960298267677417473",
+						"display_url": "twitter.com/starwars/statu…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203562874,
+				"id_str": "203562874",
+				"name": "Captain Death",
+				"screen_name": "Vigadeath",
+				"location": "Glasgow, Scotland",
+				"description": "Arbiter of transforming robots, pro-wrestling fan, CEO of the Refined Robot Co. and all around Space Wizard Profile pic by @zerokaiser85  #HailandKill #Refined",
+				"url": "https://t.co/i9Ve3ZGUUz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i9Ve3ZGUUz",
+								"expanded_url": "http://RefinedRobotCo.blogspot.com",
+								"display_url": "RefinedRobotCo.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 521,
+				"friends_count": 346,
+				"listed_count": 9,
+				"created_at": "Sat Oct 16 15:25:00 +0000 2010",
+				"favourites_count": 3770,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795775324470595584/s32nqdHv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795775324470595584/s32nqdHv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203562874/1516194871",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 960298267677417500,
+			"quoted_status_id_str": "960298267677417473",
+			"quoted_status": {
+				"created_at": "Sun Feb 04 23:45:23 +0000 2018",
+				"id": 960298267677417500,
+				"id_str": "960298267677417473",
+				"text": "Solo: A Star Wars Story. Trailer Tomorrow. #HanSolo https://t.co/y6l5P0K53n",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "HanSolo",
+							"indices": [
+								43,
+								51
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 960289439737045000,
+							"id_str": "960289439737044992",
+							"indices": [
+								52,
+								75
+							],
+							"media_url": "http://pbs.twimg.com/media/DVOoZDtVQAAOmGN.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DVOoZDtVQAAOmGN.jpg",
+							"url": "https://t.co/y6l5P0K53n",
+							"display_url": "pic.twitter.com/y6l5P0K53n",
+							"expanded_url": "https://twitter.com/starwars/status/960298267677417473/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 960289439737045000,
+							"id_str": "960289439737044992",
+							"indices": [
+								52,
+								75
+							],
+							"media_url": "http://pbs.twimg.com/media/DVOoZDtVQAAOmGN.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DVOoZDtVQAAOmGN.jpg",
+							"url": "https://t.co/y6l5P0K53n",
+							"display_url": "pic.twitter.com/y6l5P0K53n",
+							"expanded_url": "https://twitter.com/starwars/status/960298267677417473/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									320,
+									133
+								],
+								"duration_millis": 45546,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/960289439737044992/vid/866x360/dy-pkzOv1QtOUsht.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/960289439737044992/vid/432x180/IkA9RRNgvQCJKpJ_.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/960289439737044992/pl/hPPdErRdCYsZghOn.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "Solo: A Star Wars Story TV Spot ",
+								"description": "",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20106852,
+					"id_str": "20106852",
+					"name": "Star Wars",
+					"screen_name": "starwars",
+					"location": "",
+					"description": "The official home of Star Wars on Twitter.",
+					"url": "https://t.co/VXUbBMMsyZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VXUbBMMsyZ",
+									"expanded_url": "http://www.starwars.com",
+									"display_url": "starwars.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3812595,
+					"friends_count": 472,
+					"listed_count": 14713,
+					"created_at": "Wed Feb 04 23:37:44 +0000 2009",
+					"favourites_count": 28712,
+					"utc_offset": -32400,
+					"time_zone": "Alaska",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 33623,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000405",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665103689/f37654de20e9f654de69204cb902d1c5.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665103689/f37654de20e9f654de69204cb902d1c5.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/783419325830934528/7Ad49etX_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/783419325830934528/7Ad49etX_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20106852/1509750402",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F1F4F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 50874,
+				"favorite_count": 80054,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 960298267677417500,
+		"quoted_status_id_str": "960298267677417473",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 04 20:31:55 +0000 2018",
+		"id": 960249582356717600,
+		"id_str": "960249582356717568",
+		"text": "RT @OpenRightsGroup: Digital minister’s app lands on data watchdog’s radar after privacy cock-up via @TechCrunch https://t.co/Zd2R29JSTm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenRightsGroup",
+					"name": "Open Rights Group",
+					"id": 15028398,
+					"id_str": "15028398",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "TechCrunch",
+					"name": "TechCrunch",
+					"id": 816653,
+					"id_str": "816653",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zd2R29JSTm",
+					"expanded_url": "https://techcrunch.com/2018/02/02/digital-ministers-app-lands-on-data-watchdogs-radar-after-privacy-cock-up/",
+					"display_url": "techcrunch.com/2018/02/02/dig…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 797,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7982,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 04 12:01:08 +0000 2018",
+			"id": 960121036745465900,
+			"id_str": "960121036745465856",
+			"text": "Digital minister’s app lands on data watchdog’s radar after privacy cock-up via @TechCrunch https://t.co/Zd2R29JSTm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TechCrunch",
+						"name": "TechCrunch",
+						"id": 816653,
+						"id_str": "816653",
+						"indices": [
+							80,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Zd2R29JSTm",
+						"expanded_url": "https://techcrunch.com/2018/02/02/digital-ministers-app-lands-on-data-watchdogs-radar-after-privacy-cock-up/",
+						"display_url": "techcrunch.com/2018/02/02/dig…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15028398,
+				"id_str": "15028398",
+				"name": "Open Rights Group",
+				"screen_name": "OpenRightsGroup",
+				"location": "UK",
+				"description": "Open Rights Group exists to preserve and promote your rights in the digital age. We are funded by individuals who care about digital rights. #IPBill #DEBill",
+				"url": "https://t.co/PZt2SUkPif",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PZt2SUkPif",
+								"expanded_url": "https://www.openrightsgroup.org/",
+								"display_url": "openrightsgroup.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36402,
+				"friends_count": 5335,
+				"listed_count": 1907,
+				"created_at": "Fri Jun 06 10:57:39 +0000 2008",
+				"favourites_count": 578,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12116,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875377504760057856/1Ot2cAte_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875377504760057856/1Ot2cAte_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15028398/1485345892",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 04 20:30:01 +0000 2018",
+		"id": 960249102587121700,
+		"id_str": "960249102587121670",
+		"text": "RT @artabenoza: @realDonaldTrump https://t.co/X3veAtHPu2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "artabenoza",
+					"name": "Art Abenoza",
+					"id": 82537931,
+					"id_str": "82537931",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X3veAtHPu2",
+					"expanded_url": "https://twitter.com/renato_mariotti/status/959843346306011136",
+					"display_url": "twitter.com/renato_mariott…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 797,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7982,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 04 17:25:05 +0000 2018",
+			"id": 960202561436332000,
+			"id_str": "960202561436332032",
+			"text": "@realDonaldTrump https://t.co/X3veAtHPu2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X3veAtHPu2",
+						"expanded_url": "https://twitter.com/renato_mariotti/status/959843346306011136",
+						"display_url": "twitter.com/renato_mariott…",
+						"indices": [
+							17,
+							40
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 959949725028974600,
+			"in_reply_to_status_id_str": "959949725028974592",
+			"in_reply_to_user_id": 25073877,
+			"in_reply_to_user_id_str": "25073877",
+			"in_reply_to_screen_name": "realDonaldTrump",
+			"user": {
+				"id": 82537931,
+				"id_str": "82537931",
+				"name": "Art Abenoza",
+				"screen_name": "artabenoza",
+				"location": "Los Angeles, CA",
+				"description": "https://t.co/23K9ou7Fp0",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/23K9ou7Fp0",
+								"expanded_url": "http://Instagram.com/artabenoza",
+								"display_url": "Instagram.com/artabenoza",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2649,
+				"friends_count": 502,
+				"listed_count": 82,
+				"created_at": "Thu Oct 15 04:22:04 +0000 2009",
+				"favourites_count": 14054,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7996,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "332525",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/387225218/Home_page_copy_copy.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/387225218/Home_page_copy_copy.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902613182933381121/O2RCW0aX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902613182933381121/O2RCW0aX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82537931/1514797606",
+				"profile_link_color": "CF2C47",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "CC33C2",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 959843346306011100,
+			"quoted_status_id_str": "959843346306011136",
+			"quoted_status": {
+				"created_at": "Sat Feb 03 17:37:41 +0000 2018",
+				"id": 959843346306011100,
+				"id_str": "959843346306011136",
+				"text": "As I wrote in the @nytimes, the memo doesn’t vindicate Trump—it may help sink him. https://t.co/umYHPBjTWv",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "nytimes",
+							"name": "The New York Times",
+							"id": 807095,
+							"id_str": "807095",
+							"indices": [
+								18,
+								26
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/umYHPBjTWv",
+							"expanded_url": "https://www.nytimes.com/2018/02/03/opinion/memo-nunes-trump-obstruction.html",
+							"display_url": "nytimes.com/2018/02/03/opi…",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 759481842814726100,
+					"id_str": "759481842814726144",
+					"name": "Renato Mariotti",
+					"screen_name": "renato_mariotti",
+					"location": "Chicago, IL",
+					"description": "Candidate for Illinois Attorney General — vote March 20th! Former federal prosecutor. Legal expert for TV and print. Partner @ThompsonCoburn.",
+					"url": "https://t.co/UMRsUfVjwI",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/UMRsUfVjwI",
+									"expanded_url": "https://renatomariotti.com/",
+									"display_url": "renatomariotti.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 119573,
+					"friends_count": 923,
+					"listed_count": 1327,
+					"created_at": "Sat Jul 30 20:12:36 +0000 2016",
+					"favourites_count": 14393,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12259,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/759490436004130816/tzCxczpv_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/759490436004130816/tzCxczpv_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/759481842814726144/1469911841",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3821,
+				"favorite_count": 9377,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 959843346306011100,
+		"quoted_status_id_str": "959843346306011136",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Feb 04 15:10:31 +0000 2018",
+		"id": 960168697611673600,
+		"id_str": "960168697611673600",
+		"text": "RT @alanferrier: While Rees-Mogg is trending, we should remember that when the Dubs scheme to bring unaccompanied child refugees to the UK…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alanferrier",
+					"name": "Alan Ferrier",
+					"id": 132551000,
+					"id_str": "132551000",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 797,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7982,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 03 18:38:36 +0000 2018",
+			"id": 959858676889718800,
+			"id_str": "959858676889718784",
+			"text": "While Rees-Mogg is trending, we should remember that when the Dubs scheme to bring unaccompanied child refugees to… https://t.co/BS7M0jro2W",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BS7M0jro2W",
+						"expanded_url": "https://twitter.com/i/web/status/959858676889718784",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 132551000,
+				"id_str": "132551000",
+				"name": "Alan Ferrier",
+				"screen_name": "alanferrier",
+				"location": "Edinburgh, Scotland",
+				"description": "I live in Edinburgh and my hobbies include arranging my CDs in alphabetical order, discovering new and exotic whiskies, sheep-spotting and flying my kite.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9935,
+				"friends_count": 3536,
+				"listed_count": 135,
+				"created_at": "Tue Apr 13 15:05:21 +0000 2010",
+				"favourites_count": 17198,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15811,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949381834810503168/sT3y9Uzv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949381834810503168/sT3y9Uzv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132551000/1442918803",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1986,
+			"favorite_count": 1707,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1986,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 04 13:02:57 +0000 2018",
+		"id": 960136595973333000,
+		"id_str": "960136595973332994",
+		"text": "RT @EbonyDawnMarsh: @BENEFITS_NEWS @alibali50 Been happening already for a while. JobCentrePlus expect \"underemployed\" workers to keep thei…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EbonyDawnMarsh",
+					"name": "Ebony Dawn Marsh🎗",
+					"id": 271916022,
+					"id_str": "271916022",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "BENEFITS_NEWS",
+					"name": "BENEFITS NEWS",
+					"id": 4862582645,
+					"id_str": "4862582645",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "alibali50",
+					"name": "ali",
+					"id": 82416468,
+					"id_str": "82416468",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 797,
+			"listed_count": 51,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 7982,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 03 10:12:08 +0000 2018",
+			"id": 959731220035883000,
+			"id_str": "959731220035883008",
+			"text": "@BENEFITS_NEWS @alibali50 Been happening already for a while. JobCentrePlus expect \"underemployed\" workers to keep… https://t.co/TLkUDHGrX4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BENEFITS_NEWS",
+						"name": "BENEFITS NEWS",
+						"id": 4862582645,
+						"id_str": "4862582645",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "alibali50",
+						"name": "ali",
+						"id": 82416468,
+						"id_str": "82416468",
+						"indices": [
+							15,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TLkUDHGrX4",
+						"expanded_url": "https://twitter.com/i/web/status/959731220035883008",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 959596357899227100,
+			"in_reply_to_status_id_str": "959596357899227136",
+			"in_reply_to_user_id": 4862582645,
+			"in_reply_to_user_id_str": "4862582645",
+			"in_reply_to_screen_name": "BENEFITS_NEWS",
+			"user": {
+				"id": 271916022,
+				"id_str": "271916022",
+				"name": "Ebony Dawn Marsh🎗",
+				"screen_name": "EbonyDawnMarsh",
+				"location": "Edinburgh, Scotland",
+				"description": "Small, Scotswoman. World citizen. Disability/World politics. #indyref2! RTs not always endorsements",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2375,
+				"friends_count": 3050,
+				"listed_count": 174,
+				"created_at": "Fri Mar 25 12:48:54 +0000 2011",
+				"favourites_count": 27964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/709392036/68f7f0723c8d579f7e71a6bd53cd6c97.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/709392036/68f7f0723c8d579f7e71a6bd53cd6c97.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958716816485965826/zRC2YClm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958716816485965826/zRC2YClm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/271916022/1487547091",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 04 00:46:47 +0000 2018",
 		"id": 959951331195805700,
 		"id_str": "959951331195805696",
