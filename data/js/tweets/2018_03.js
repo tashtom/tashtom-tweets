@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 09 21:35:40 +0000 2018",
+		"id": 972224423070781400,
+		"id_str": "972224423070781441",
+		"text": "RT @jonworth: Ah! Here’s a handy comparison of British and EU democracy, made a few years ago by @captain_europe\n\nAny view on that, @garyyo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonworth",
+					"name": "Jon Worth",
+					"id": 17442320,
+					"id_str": "17442320",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "captain_europe",
+					"name": "Captain Europe 🇪🇺",
+					"id": 803996887678419000,
+					"id_str": "803996887678418944",
+					"indices": [
+						97,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 830,
+			"listed_count": 52,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 8623,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7826,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 20:17:37 +0000 2018",
+			"id": 972204784559251500,
+			"id_str": "972204784559251456",
+			"text": "Ah! Here’s a handy comparison of British and EU democracy, made a few years ago by @captain_europe\n\nAny view on tha… https://t.co/Neo2SoM8LJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "captain_europe",
+						"name": "Captain Europe 🇪🇺",
+						"id": 803996887678419000,
+						"id_str": "803996887678418944",
+						"indices": [
+							83,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Neo2SoM8LJ",
+						"expanded_url": "https://twitter.com/i/web/status/972204784559251456",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17442320,
+				"id_str": "17442320",
+				"name": "Jon Worth",
+				"screen_name": "jonworth",
+				"location": "Berlin",
+				"description": "EU citizen with a UK passport. Member @die_Gruenen in Kreuzberg. Teaches @CollegeofEurope. Still blogging about EU, DE, UK and #Brexit. Often on 🚅 across 🇪🇺.",
+				"url": "http://t.co/joJw0PYlvA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/joJw0PYlvA",
+								"expanded_url": "http://www.jonworth.eu/",
+								"display_url": "jonworth.eu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35783,
+				"friends_count": 8610,
+				"listed_count": 1241,
+				"created_at": "Mon Nov 17 14:37:21 +0000 2008",
+				"favourites_count": 3778,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 115620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "505050",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438998643924680704/EWoKgyXN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438998643924680704/EWoKgyXN.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/779030529698127872/S6nkO99n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/779030529698127872/S6nkO99n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17442320/1505918678",
+				"profile_link_color": "70B547",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 09 13:13:31 +0000 2018",
+		"id": 972098054739447800,
+		"id_str": "972098054739447809",
+		"text": "RT @fredsaunderson: Great to be at #SYPVS this morning, looking forward to discussing #copyright #libraries and #publishing later https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SYPVS",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "copyright",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "publishing",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fredsaunderson",
+					"name": "Fred Saunderson",
+					"id": 58076236,
+					"id_str": "58076236",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis student, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book collector.\rInterested in history of printing.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 830,
+			"listed_count": 52,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 8623,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7826,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 09:47:39 +0000 2018",
+			"id": 972046244729286700,
+			"id_str": "972046244729286657",
+			"text": "Great to be at #SYPVS this morning, looking forward to discussing #copyright #libraries and #publishing later https://t.co/xHIhiLQhR4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SYPVS",
+						"indices": [
+							15,
+							21
+						]
+					},
+					{
+						"text": "copyright",
+						"indices": [
+							66,
+							76
+						]
+					},
+					{
+						"text": "libraries",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"text": "publishing",
+						"indices": [
+							92,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972046235069763600,
+						"id_str": "972046235069763584",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DX1m5pKW0AAe_jT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX1m5pKW0AAe_jT.jpg",
+						"url": "https://t.co/xHIhiLQhR4",
+						"display_url": "pic.twitter.com/xHIhiLQhR4",
+						"expanded_url": "https://twitter.com/fredsaunderson/status/972046244729286657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 898,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 898,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972046235069763600,
+						"id_str": "972046235069763584",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DX1m5pKW0AAe_jT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX1m5pKW0AAe_jT.jpg",
+						"url": "https://t.co/xHIhiLQhR4",
+						"display_url": "pic.twitter.com/xHIhiLQhR4",
+						"expanded_url": "https://twitter.com/fredsaunderson/status/972046244729286657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 898,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 898,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58076236,
+				"id_str": "58076236",
+				"name": "Fred Saunderson",
+				"screen_name": "fredsaunderson",
+				"location": "Edinburgh",
+				"description": "Copyright, information management, openness, data protection, and the like. I work for a library. Chair @UKLACA. Opinions mine unless they are someone else's.",
+				"url": "https://t.co/RI4Jdsoh7X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RI4Jdsoh7X",
+								"expanded_url": "http://bit.ly/OpenLicensingForCulturalHeritage",
+								"display_url": "bit.ly/OpenLicensingF…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 754,
+				"friends_count": 555,
+				"listed_count": 78,
+				"created_at": "Sun Jul 19 00:44:40 +0000 2009",
+				"favourites_count": 2046,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14728,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292929",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553818916/x2a1396b302f408495fea3c578a86ca5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553818916/x2a1396b302f408495fea3c578a86ca5.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901829897445937153/A-XMBG7x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901829897445937153/A-XMBG7x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58076236/1518356627",
+				"profile_link_color": "626262",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 08 22:06:35 +0000 2018",
 		"id": 971869817291657200,
 		"id_str": "971869817291657220",
