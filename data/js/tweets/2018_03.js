@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 27 12:58:08 +0000 2018",
+		"id": 978617165828980700,
+		"id_str": "978617165828980737",
+		"text": "RT @DSMeu: Eurobarmeter on #fakenews &amp; #dinsiformation online: the most trusted news sources are TV &amp; radio. #SocialNetworks at the bottom…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fakenews",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "dinsiformation",
+					"indices": [
+						43,
+						58
+					]
+				},
+				{
+					"text": "SocialNetworks",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSMeu",
+					"name": "DigitalSingleMarket",
+					"id": 205315827,
+					"id_str": "205315827",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 857,
+			"listed_count": 53,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 8927,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 26 09:28:08 +0000 2018",
+			"id": 978201928667746300,
+			"id_str": "978201928667746304",
+			"text": "Eurobarmeter on #fakenews &amp; #dinsiformation online: the most trusted news sources are TV &amp; radio. #SocialNetworks a… https://t.co/OxT2LLBsYS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fakenews",
+						"indices": [
+							16,
+							25
+						]
+					},
+					{
+						"text": "dinsiformation",
+						"indices": [
+							32,
+							47
+						]
+					},
+					{
+						"text": "SocialNetworks",
+						"indices": [
+							106,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OxT2LLBsYS",
+						"expanded_url": "https://twitter.com/i/web/status/978201928667746304",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 205315827,
+				"id_str": "205315827",
+				"name": "DigitalSingleMarket",
+				"screen_name": "DSMeu",
+				"location": "Europe",
+				"description": "Official EU account for European #DigitalSingleMarket. Maximising the potential of ICT in Europe is our goal. We work closely with @Ansip_EU & @GabrielMariya",
+				"url": "https://t.co/zZQBCYNgsg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zZQBCYNgsg",
+								"expanded_url": "http://ec.europa.eu/digital-single-market/",
+								"display_url": "ec.europa.eu/digital-single…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81349,
+				"friends_count": 4114,
+				"listed_count": 4078,
+				"created_at": "Wed Oct 20 16:03:38 +0000 2010",
+				"favourites_count": 7398,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471936711/Twitter_simple_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471936711/Twitter_simple_background.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971695937461485568/EJo657dx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971695937461485568/EJo657dx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/205315827/1515054783",
+				"profile_link_color": "6E3D81",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 12:55:08 +0000 2018",
+		"id": 978616410086756400,
+		"id_str": "978616410086756352",
+		"text": "RT @historylvrsclub: Xenophobiа = Ignorance. We're all humans on a small, floating rock through an infinite galaxy, together. https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historylvrsclub",
+					"name": "History Lovers Club",
+					"id": 3863605355,
+					"id_str": "3863605355",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 857,
+			"listed_count": 53,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 8927,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 25 01:52:02 +0000 2018",
+			"id": 977724757272682500,
+			"id_str": "977724757272682497",
+			"text": "Xenophobiа = Ignorance. We're all humans on a small, floating rock through an infinite galaxy, together. https://t.co/9Je4MApbnn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977724696979439600,
+						"id_str": "977724696979439618",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DZGTboOWAAI6mAY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZGTboOWAAI6mAY.jpg",
+						"url": "https://t.co/9Je4MApbnn",
+						"display_url": "pic.twitter.com/9Je4MApbnn",
+						"expanded_url": "https://twitter.com/historylvrsclub/status/977724757272682497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 526,
+								"h": 385,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 526,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977724696979439600,
+						"id_str": "977724696979439618",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DZGTboOWAAI6mAY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZGTboOWAAI6mAY.jpg",
+						"url": "https://t.co/9Je4MApbnn",
+						"display_url": "pic.twitter.com/9Je4MApbnn",
+						"expanded_url": "https://twitter.com/historylvrsclub/status/977724757272682497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 526,
+								"h": 385,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 526,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3863605355,
+				"id_str": "3863605355",
+				"name": "History Lovers Club",
+				"screen_name": "historylvrsclub",
+				"location": "London, England",
+				"description": "Rare historical photos. \nAll copyrights belong to their respective owners. Business, removal requests and questions: ask.history.lovers.club@gmail.com",
+				"url": "https://t.co/gggmdpuCSK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gggmdpuCSK",
+								"expanded_url": "http://historyloversclub.com",
+								"display_url": "historyloversclub.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 289240,
+				"friends_count": 0,
+				"listed_count": 3153,
+				"created_at": "Sun Oct 04 17:25:59 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54545,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/650726769058807808/vWX4lILy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/650726769058807808/vWX4lILy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3863605355/1443983426",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 889,
+			"favorite_count": 1759,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 889,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 09:37:48 +0000 2018",
+		"id": 978566748944216000,
+		"id_str": "978566748944216065",
+		"text": "RT @wotchers: #InCaseYouMissedIt \n\n\"Empty-headed, animal food-trough wiper! \nGo away! \nOr I shall taunt you a second tahm!\" - French Passpo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InCaseYouMissedIt",
+					"indices": [
+						14,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wotchers",
+					"name": "Mary-Anne Boermans",
+					"id": 319502232,
+					"id_str": "319502232",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 857,
+			"listed_count": 53,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 8927,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 27 06:35:22 +0000 2018",
+			"id": 978520838415831000,
+			"id_str": "978520838415831041",
+			"text": "#InCaseYouMissedIt \n\n\"Empty-headed, animal food-trough wiper! \nGo away! \nOr I shall taunt you a second tahm!\" - Fre… https://t.co/JOurNhAs0K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InCaseYouMissedIt",
+						"indices": [
+							0,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JOurNhAs0K",
+						"expanded_url": "https://twitter.com/i/web/status/978520838415831041",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 319502232,
+				"id_str": "319502232",
+				"name": "Mary-Anne Boermans",
+				"screen_name": "wotchers",
+				"location": "Worcestershire, UK",
+				"description": "Winner GBBO Christmas, Runner Up in 2011. Award-winning author. Recipe Resurrectionist. British Food Advocate. Check out new website: DejaFood.uk!",
+				"url": "http://t.co/cTnlVdnMYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cTnlVdnMYn",
+								"expanded_url": "http://timetocookonline.com",
+								"display_url": "timetocookonline.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7387,
+				"friends_count": 50,
+				"listed_count": 116,
+				"created_at": "Sat Jun 18 06:53:33 +0000 2011",
+				"favourites_count": 1207,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12137,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867035972231462915/8ny_5xzE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867035972231462915/8ny_5xzE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/319502232/1495552374",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 26 20:20:42 +0000 2018",
 		"id": 978366151775477800,
 		"id_str": "978366151775477761",
