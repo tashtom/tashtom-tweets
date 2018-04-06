@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 05 12:49:32 +0000 2018",
+		"id": 981876492002054100,
+		"id_str": "981876492002054144",
+		"text": "RT @lewstringer: The Beano does publicity stunts better than any other comic. Another brilliant move to raise public awareness that, yes, t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lewstringer",
+					"name": "Lew Stringer",
+					"id": 95706712,
+					"id_str": "95706712",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 857,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9023,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 12:22:26 +0000 2018",
+			"id": 981869669404545000,
+			"id_str": "981869669404545024",
+			"text": "The Beano does publicity stunts better than any other comic. Another brilliant move to raise public awareness that,… https://t.co/Ttx9EIPSSS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ttx9EIPSSS",
+						"expanded_url": "https://twitter.com/i/web/status/981869669404545024",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95706712,
+				"id_str": "95706712",
+				"name": "Lew Stringer",
+				"screen_name": "lewstringer",
+				"location": "Warwickshire UK",
+				"description": "Humour comics artist/writer for Beano, Doctor Who Magazine, Toxic, Viz etc. Creator of Combat Colin, Tom Thug, Pete and his Pimple, Suburban Satanists, and more",
+				"url": "https://t.co/lcoEtxhLys",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lcoEtxhLys",
+								"expanded_url": "http://www.lewstringer.com",
+								"display_url": "lewstringer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2527,
+				"friends_count": 853,
+				"listed_count": 77,
+				"created_at": "Wed Dec 09 18:50:33 +0000 2009",
+				"favourites_count": 8475,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10631,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672462966/ff4c4c4d79a7d40d8108fac8dcb02df1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672462966/ff4c4c4d79a7d40d8108fac8dcb02df1.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972162496495804416/1hIlH_FG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972162496495804416/1hIlH_FG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95706712/1498813053",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 981854307606724600,
+			"quoted_status_id_str": "981854307606724608",
+			"quoted_status": {
+				"created_at": "Thu Apr 05 11:21:23 +0000 2018",
+				"id": 981854307606724600,
+				"id_str": "981854307606724608",
+				"text": "A clean sweep for @BeanoOfficial #Waltergate https://t.co/VxOW2FMZm4",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Waltergate",
+							"indices": [
+								33,
+								44
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "BeanoOfficial",
+							"name": "Beano",
+							"id": 169104491,
+							"id_str": "169104491",
+							"indices": [
+								18,
+								32
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 981854269451132900,
+							"id_str": "981854269451132929",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/DaA_QYfV4AEFu5Z.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DaA_QYfV4AEFu5Z.jpg",
+							"url": "https://t.co/VxOW2FMZm4",
+							"display_url": "pic.twitter.com/VxOW2FMZm4",
+							"expanded_url": "https://twitter.com/TaylorHerringUK/status/981854307606724608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 509,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 582,
+									"h": 777,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 582,
+									"h": 777,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 981854269451132900,
+							"id_str": "981854269451132929",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/DaA_QYfV4AEFu5Z.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DaA_QYfV4AEFu5Z.jpg",
+							"url": "https://t.co/VxOW2FMZm4",
+							"display_url": "pic.twitter.com/VxOW2FMZm4",
+							"expanded_url": "https://twitter.com/TaylorHerringUK/status/981854307606724608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 509,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 582,
+									"h": 777,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 582,
+									"h": 777,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20425378,
+					"id_str": "20425378",
+					"name": "Taylor Herring",
+					"screen_name": "TaylorHerringUK",
+					"location": "Ladbroke Grove, London GB",
+					"description": "Delivering Fame & Fortune for brands ★ Agency Of The Year ★ tweets by @itsjamesherring",
+					"url": "https://t.co/3EQtnMepGL",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/3EQtnMepGL",
+									"expanded_url": "http://www.taylorherring.com/",
+									"display_url": "taylorherring.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 15528,
+					"friends_count": 1562,
+					"listed_count": 465,
+					"created_at": "Mon Feb 09 09:37:24 +0000 2009",
+					"favourites_count": 763,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 7396,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "04131A",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476252827342229507/3RCUH4Pf.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/476252827342229507/3RCUH4Pf.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/610349233674321920/ZO9HtsZ6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/610349233674321920/ZO9HtsZ6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20425378/1494660021",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FF0000",
+					"profile_text_color": "FFFFFF",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 29,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 22,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 981854307606724600,
+		"quoted_status_id_str": "981854307606724608",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 04 21:32:38 +0000 2018",
 		"id": 981645744552673300,
 		"id_str": "981645744552673280",
