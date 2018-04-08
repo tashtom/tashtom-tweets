@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 22:06:23 +0000 2018",
+		"id": 982741401401200600,
+		"id_str": "982741401401200640",
+		"text": "RT @KenRoth: Hard to see how a Palestinian journalist filming the Gaza border protests, wearing a vest marked \"press,\" constitutes an immin…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KenRoth",
+					"name": "Kenneth Roth",
+					"id": 17839398,
+					"id_str": "17839398",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 857,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9047,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 11:55:01 +0000 2018",
+			"id": 982587546436763600,
+			"id_str": "982587546436763649",
+			"text": "Hard to see how a Palestinian journalist filming the Gaza border protests, wearing a vest marked \"press,\" constitut… https://t.co/MQFXcwVZd8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MQFXcwVZd8",
+						"expanded_url": "https://twitter.com/i/web/status/982587546436763649",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17839398,
+				"id_str": "17839398",
+				"name": "Kenneth Roth",
+				"screen_name": "KenRoth",
+				"location": "New York",
+				"description": "Executive Director,\r\nHuman Rights Watch",
+				"url": "http://t.co/qNGRw7kDhZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qNGRw7kDhZ",
+								"expanded_url": "http://www.hrw.org",
+								"display_url": "hrw.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246845,
+				"friends_count": 905,
+				"listed_count": 4889,
+				"created_at": "Wed Dec 03 15:55:20 +0000 2008",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 55761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17839398/1399219549",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1631,
+			"favorite_count": 1555,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1631,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 06 21:58:29 +0000 2018",
 		"id": 982377027809480700,
 		"id_str": "982377027809480705",
@@ -307,7 +509,7 @@ Grailbird.data.tweets_2018_04 =
 		"created_at": "Fri Apr 06 19:31:01 +0000 2018",
 		"id": 982339915919888400,
 		"id_str": "982339915919888385",
-		"text": "RT @not_my_library: Things a self-service machine cannot do:\n\n👨‍🏫 Build a relationship and trust w community\n👩‍🏫 Recommend reading\n👨‍🏫 Ask…",
+		"text": "RT @not_my_library: Things a self-service machine cannot do:\n\n👨🏫 Build a relationship and trust w community\n👩🏫 Recommend reading\n👨🏫 Ask…",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -401,7 +603,7 @@ Grailbird.data.tweets_2018_04 =
 			"created_at": "Fri Apr 06 14:36:26 +0000 2018",
 			"id": 982265781227409400,
 			"id_str": "982265781227409408",
-			"text": "Things a self-service machine cannot do:\n\n👨‍🏫 Build a relationship and trust w community\n👩‍🏫 Recommend reading\n👨‍🏫… https://t.co/4ss1c9dLWk",
+			"text": "Things a self-service machine cannot do:\n\n👨🏫 Build a relationship and trust w community\n👩🏫 Recommend reading\n👨🏫… https://t.co/4ss1c9dLWk",
 			"truncated": true,
 			"entities": {
 				"hashtags": [],
