@@ -1,6 +1,1041 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 09 21:31:42 +0000 2018",
+		"id": 983457449872150500,
+		"id_str": "983457449872150528",
+		"text": "RT @PeterKGeoghegan: What’s most depressing about Gardiner’s comments is he repeats ‘duplicitous Paddy’ BS while failing completely to list…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterKGeoghegan",
+					"name": "Peter Geoghegan",
+					"id": 119384544,
+					"id_str": "119384544",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 858,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9079,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 09 20:44:04 +0000 2018",
+			"id": 983445461955735600,
+			"id_str": "983445461955735552",
+			"text": "What’s most depressing about Gardiner’s comments is he repeats ‘duplicitous Paddy’ BS while failing completely to l… https://t.co/p60q6QHtvk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p60q6QHtvk",
+						"expanded_url": "https://twitter.com/i/web/status/983445461955735552",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 983441252837359600,
+			"in_reply_to_status_id_str": "983441252837359618",
+			"in_reply_to_user_id": 119384544,
+			"in_reply_to_user_id_str": "119384544",
+			"in_reply_to_screen_name": "PeterKGeoghegan",
+			"user": {
+				"id": 119384544,
+				"id_str": "119384544",
+				"name": "Peter Geoghegan",
+				"screen_name": "PeterKGeoghegan",
+				"location": "Glasgow/Ireland",
+				"description": "Investigative journalist with @openDemocracy. Editor, Political Insight. Author of The People's Referendum. @FerretScot",
+				"url": "https://t.co/ZXrUSyRK3H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZXrUSyRK3H",
+								"expanded_url": "http://www.petergeoghegan.com",
+								"display_url": "petergeoghegan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21504,
+				"friends_count": 4200,
+				"listed_count": 446,
+				"created_at": "Wed Mar 03 13:47:06 +0000 2010",
+				"favourites_count": 33975,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801498535808081922/RKXsKNZy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801498535808081922/RKXsKNZy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119384544/1419255045",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 09 21:31:32 +0000 2018",
+		"id": 983457406301679600,
+		"id_str": "983457406301679617",
+		"text": "RT @PeterKGeoghegan: Barry Gardiner’s comments on Good Friday Agreement as a ‘shibboleth’ reported at weekend now confirmed. This is v v co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterKGeoghegan",
+					"name": "Peter Geoghegan",
+					"id": 119384544,
+					"id_str": "119384544",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 858,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9079,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 09 20:27:20 +0000 2018",
+			"id": 983441252837359600,
+			"id_str": "983441252837359618",
+			"text": "Barry Gardiner’s comments on Good Friday Agreement as a ‘shibboleth’ reported at weekend now confirmed. This is v v… https://t.co/myMVlguOrL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/myMVlguOrL",
+						"expanded_url": "https://twitter.com/i/web/status/983441252837359618",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119384544,
+				"id_str": "119384544",
+				"name": "Peter Geoghegan",
+				"screen_name": "PeterKGeoghegan",
+				"location": "Glasgow/Ireland",
+				"description": "Investigative journalist with @openDemocracy. Editor, Political Insight. Author of The People's Referendum. @FerretScot",
+				"url": "https://t.co/ZXrUSyRK3H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZXrUSyRK3H",
+								"expanded_url": "http://www.petergeoghegan.com",
+								"display_url": "petergeoghegan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21504,
+				"friends_count": 4200,
+				"listed_count": 446,
+				"created_at": "Wed Mar 03 13:47:06 +0000 2010",
+				"favourites_count": 33975,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801498535808081922/RKXsKNZy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801498535808081922/RKXsKNZy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119384544/1419255045",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 983438633272332300,
+			"quoted_status_id_str": "983438633272332288",
+			"quoted_status": {
+				"created_at": "Mon Apr 09 20:16:56 +0000 2018",
+				"id": 983438633272332300,
+				"id_str": "983438633272332288",
+				"text": "This is quite, quite something. And not in a good way. https://t.co/AMvbScVsIz",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/AMvbScVsIz",
+							"expanded_url": "https://www.theguardian.com/world/2018/apr/09/barry-gardiner-good-friday-deal-played-up-for-economic-reasons-labour-brexit-hard-border-paramilitary",
+							"display_url": "theguardian.com/world/2018/apr…",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 382937180,
+					"id_str": "382937180",
+					"name": "Tim O'Connor",
+					"screen_name": "timoconnorbl",
+					"location": "",
+					"description": "Lawyer, writer on rugby and the law, rugby tragic, sailor. All views entirely personal.",
+					"url": "https://t.co/LHu9LZt4Bk",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/LHu9LZt4Bk",
+									"expanded_url": "http://rugbylaw.blogspot.com",
+									"display_url": "rugbylaw.blogspot.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4244,
+					"friends_count": 950,
+					"listed_count": 123,
+					"created_at": "Fri Sep 30 23:48:01 +0000 2011",
+					"favourites_count": 128536,
+					"utc_offset": 3600,
+					"time_zone": "Casablanca",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 64619,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/951818643523952640/oBotLV1C_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/951818643523952640/oBotLV1C_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 105,
+				"favorite_count": 135,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 93,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 983438633272332300,
+		"quoted_status_id_str": "983438633272332288",
+		"retweet_count": 93,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 09 18:26:43 +0000 2018",
+		"id": 983410896801271800,
+		"id_str": "983410896801271810",
+		"text": "I wrote a blog post about this guy check it out: https://t.co/zNBQsqAYGB #citylis https://t.co/7OU4gKbyqP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "citylis",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zNBQsqAYGB",
+					"expanded_url": "https://thomasash.wordpress.com/2016/02/24/books-bugs-and-a-dead-rat-hands-on-history-at-the-national-archive/",
+					"display_url": "thomasash.wordpress.com/2016/02/24/boo…",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/7OU4gKbyqP",
+					"expanded_url": "https://twitter.com/JMDesplat/status/983231256056999936",
+					"display_url": "twitter.com/JMDesplat/stat…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 858,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9079,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 983231256057000000,
+		"quoted_status_id_str": "983231256056999936",
+		"quoted_status": {
+			"created_at": "Mon Apr 09 06:32:53 +0000 2018",
+			"id": 983231256057000000,
+			"id_str": "983231256056999936",
+			"text": "#Archive30 day 9: animal. It has to be Sir Henry Cole's rat! This little guy was found with his stomach full of che… https://t.co/IxlTf2rshR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Archive30",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IxlTf2rshR",
+						"expanded_url": "https://twitter.com/i/web/status/983231256056999936",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3178060085,
+				"id_str": "3178060085",
+				"name": "Juliette Desplat",
+				"screen_name": "JMDesplat",
+				"location": "London, England",
+				"description": "Head, Modern Overseas, Intelligence & Security Records @UKNatArchives. Middle East specialist & all things archaeological. Editor @britishscholar. Views my own.",
+				"url": "https://t.co/oV6O8VU2dW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oV6O8VU2dW",
+								"expanded_url": "http://blog.nationalarchives.gov.uk/blog/author/jdesplat/",
+								"display_url": "blog.nationalarchives.gov.uk/blog/author/jd…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 688,
+				"friends_count": 493,
+				"listed_count": 14,
+				"created_at": "Fri Apr 17 21:19:47 +0000 2015",
+				"favourites_count": 2641,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2354,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776178335781191680/gY0fpL2K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776178335781191680/gY0fpL2K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3178060085/1477661760",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 09 18:18:59 +0000 2018",
+		"id": 983408951034351600,
+		"id_str": "983408951034351616",
+		"text": "RT @AngusRobertson: The national animal of Scotland is the Unicorn. Today is National Unicorn Day. Happy #NationalUnicornDay 🦄 🏴󠁧󠁢󠁳󠁣󠁴󠁿 http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalUnicornDay",
+					"indices": [
+						105,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AngusRobertson",
+					"name": "Angus Robertson",
+					"id": 31373289,
+					"id_str": "31373289",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 858,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9079,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 09 11:14:18 +0000 2018",
+			"id": 983302077899264000,
+			"id_str": "983302077899264000",
+			"text": "The national animal of Scotland is the Unicorn. Today is National Unicorn Day. Happy #NationalUnicornDay 🦄 🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/X0L9DrVnZS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalUnicornDay",
+						"indices": [
+							85,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 983302070211153900,
+						"id_str": "983302070211153920",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DaVkBenXkAA7fG_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DaVkBenXkAA7fG_.jpg",
+						"url": "https://t.co/X0L9DrVnZS",
+						"display_url": "pic.twitter.com/X0L9DrVnZS",
+						"expanded_url": "https://twitter.com/AngusRobertson/status/983302077899264000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 380,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 380,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983302070211153900,
+						"id_str": "983302070211153920",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DaVkBenXkAA7fG_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DaVkBenXkAA7fG_.jpg",
+						"url": "https://t.co/X0L9DrVnZS",
+						"display_url": "pic.twitter.com/X0L9DrVnZS",
+						"expanded_url": "https://twitter.com/AngusRobertson/status/983302077899264000/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 380,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 380,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								19,
+								20
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DaVkBenXkAA7fG_.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31373289,
+				"id_str": "31373289",
+				"name": "Angus Robertson",
+				"screen_name": "AngusRobertson",
+				"location": "Moray, Scotland",
+				"description": "Speyside - Scotland - Europe",
+				"url": "https://t.co/mcyNtjYQAz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mcyNtjYQAz",
+								"expanded_url": "http://www.angusrobertson.org/",
+								"display_url": "angusrobertson.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65166,
+				"friends_count": 666,
+				"listed_count": 830,
+				"created_at": "Wed Apr 15 09:16:53 +0000 2009",
+				"favourites_count": 801,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10373,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8605458/1445364-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8605458/1445364-1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959779937141121025/qc57i_KG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959779937141121025/qc57i_KG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31373289/1517664491",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 393,
+			"favorite_count": 799,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 393,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 09 00:00:01 +0000 2018",
 		"id": 983132388384534500,
 		"id_str": "983132388384534529",
