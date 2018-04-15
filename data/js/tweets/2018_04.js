@@ -1,6 +1,1466 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 21:40:56 +0000 2018",
+		"id": 985271711527587800,
+		"id_str": "985271711527587840",
+		"text": "RT @ScottWaby: We don't usually manipulate images after digitisation, in fact we carefully avoid it - but when making physical facsimilies,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottWaby",
+					"name": "Scott Waby",
+					"id": 39778896,
+					"id_str": "39778896",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 860,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9146,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 14:35:37 +0000 2018",
+			"id": 984802290321248300,
+			"id_str": "984802290321248261",
+			"text": "We don't usually manipulate images after digitisation, in fact we carefully avoid it - but when making physical fac… https://t.co/4UjZG6rhsZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4UjZG6rhsZ",
+						"expanded_url": "https://twitter.com/i/web/status/984802290321248261",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39778896,
+				"id_str": "39778896",
+				"name": "Scott Waby",
+				"screen_name": "ScottWaby",
+				"location": "Aberystwyth",
+				"description": "Head of Digitisation at National Library of Wales. Photographer and Film Maker. CAA Approved Commercial UAV Pilot. Personal account.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 485,
+				"friends_count": 331,
+				"listed_count": 14,
+				"created_at": "Wed May 13 16:01:04 +0000 2009",
+				"favourites_count": 648,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 597,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815581632740659200/DXQUUppn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815581632740659200/DXQUUppn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39778896/1522579722",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "47998766a1c26261",
+				"url": "https://api.twitter.com/1.1/geo/id/47998766a1c26261.json",
+				"place_type": "city",
+				"name": "Aberystwyth",
+				"full_name": "Aberystwyth, Wales",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-4.091648,
+								52.397539
+							],
+							[
+								-4.0478195,
+								52.397539
+							],
+							[
+								-4.0478195,
+								52.4235938
+							],
+							[
+								-4.091648,
+								52.4235938
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 14 20:17:21 +0000 2018",
+		"id": 985250679563448300,
+		"id_str": "985250679563448321",
+		"text": "RT @DBArtAndTidbits: Wild West themed DragonBall art created for DragonBall Super puzzles. https://t.co/GOovDkMGSP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DBArtAndTidbits",
+					"name": "DBArt&Tidbits",
+					"id": 821595542409146400,
+					"id_str": "821595542409146372",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984884702640132100,
+					"id_str": "984884702640132097",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+					"url": "https://t.co/GOovDkMGSP",
+					"display_url": "pic.twitter.com/GOovDkMGSP",
+					"expanded_url": "https://twitter.com/DBArtAndTidbits/status/984884712547209218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984884712547209200,
+					"source_status_id_str": "984884712547209218",
+					"source_user_id": 821595542409146400,
+					"source_user_id_str": "821595542409146372"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984884702640132100,
+					"id_str": "984884702640132097",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+					"url": "https://t.co/GOovDkMGSP",
+					"display_url": "pic.twitter.com/GOovDkMGSP",
+					"expanded_url": "https://twitter.com/DBArtAndTidbits/status/984884712547209218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984884712547209200,
+					"source_status_id_str": "984884712547209218",
+					"source_user_id": 821595542409146400,
+					"source_user_id_str": "821595542409146372"
+				},
+				{
+					"id": 984884702648528900,
+					"id_str": "984884702648528896",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DasDaz4U8AAwJ1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DasDaz4U8AAwJ1S.jpg",
+					"url": "https://t.co/GOovDkMGSP",
+					"display_url": "pic.twitter.com/GOovDkMGSP",
+					"expanded_url": "https://twitter.com/DBArtAndTidbits/status/984884712547209218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1392,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984884712547209200,
+					"source_status_id_str": "984884712547209218",
+					"source_user_id": 821595542409146400,
+					"source_user_id_str": "821595542409146372"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 860,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9146,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 20:03:08 +0000 2018",
+			"id": 984884712547209200,
+			"id_str": "984884712547209218",
+			"text": "Wild West themed DragonBall art created for DragonBall Super puzzles. https://t.co/GOovDkMGSP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984884702640132100,
+						"id_str": "984884702640132097",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+						"url": "https://t.co/GOovDkMGSP",
+						"display_url": "pic.twitter.com/GOovDkMGSP",
+						"expanded_url": "https://twitter.com/DBArtAndTidbits/status/984884712547209218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1392,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 816,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984884702640132100,
+						"id_str": "984884702640132097",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DasDaz2U0AEI4Qg.jpg",
+						"url": "https://t.co/GOovDkMGSP",
+						"display_url": "pic.twitter.com/GOovDkMGSP",
+						"expanded_url": "https://twitter.com/DBArtAndTidbits/status/984884712547209218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1392,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 816,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 984884702648528900,
+						"id_str": "984884702648528896",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DasDaz4U8AAwJ1S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DasDaz4U8AAwJ1S.jpg",
+						"url": "https://t.co/GOovDkMGSP",
+						"display_url": "pic.twitter.com/GOovDkMGSP",
+						"expanded_url": "https://twitter.com/DBArtAndTidbits/status/984884712547209218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 816,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821595542409146400,
+				"id_str": "821595542409146372",
+				"name": "DBArt&Tidbits",
+				"screen_name": "DBArtAndTidbits",
+				"location": "New York, NY",
+				"description": "Dedicated to high resolution scans of official Dragon Ball artwork, classic ads, tidbits, and other goodies! Account run by @TanookiKuribo and @MSDBZBabe",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10638,
+				"friends_count": 5,
+				"listed_count": 61,
+				"created_at": "Wed Jan 18 05:50:16 +0000 2017",
+				"favourites_count": 1054,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 518,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980562260711149570/uPUEW6Oz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980562260711149570/uPUEW6Oz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821595542409146372/1492214325",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2856,
+			"favorite_count": 9105,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2856,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 14 20:14:16 +0000 2018",
+		"id": 985249901805293600,
+		"id_str": "985249901805293569",
+		"text": "Security guards, no library staff unless you call a hotline! No disabled access and no access to mum's with pushcha… https://t.co/JJJBCUPAox",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JJJBCUPAox",
+					"expanded_url": "https://twitter.com/i/web/status/985249901805293569",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 860,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9146,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 985118799996379100,
+		"quoted_status_id_str": "985118799996379136",
+		"quoted_status": {
+			"created_at": "Sat Apr 14 11:33:19 +0000 2018",
+			"id": 985118799996379100,
+			"id_str": "985118799996379136",
+			"text": "Carnegie Library \"re-opened\" - the truth about what it's like, by Rae from one of the vital community groups booted… https://t.co/X9yQT2jF95",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X9yQT2jF95",
+						"expanded_url": "https://twitter.com/i/web/status/985118799996379136",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 510225614,
+				"id_str": "510225614",
+				"name": "Laura Swaffield",
+				"screen_name": "lswaffield1",
+				"location": "London",
+				"description": "Public library activist, chair of The Library Campaign and Friends of Lambeth Libraries. Clapped-out old journalist. Mad about theatre, books.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 643,
+				"friends_count": 298,
+				"listed_count": 17,
+				"created_at": "Thu Mar 01 13:16:45 +0000 2012",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9716,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000191689804/f06a9b7b385df7dcc98966cd6c675eaf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000191689804/f06a9b7b385df7dcc98966cd6c675eaf_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 14 20:05:55 +0000 2018",
+		"id": 985247802002477000,
+		"id_str": "985247802002477057",
+		"text": "@D_McMenemy check out this thread of #liminal goodness. https://t.co/8JklLzSQsJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "liminal",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "D_McMenemy",
+					"name": "David McMenemy",
+					"id": 337292268,
+					"id_str": "337292268",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8JklLzSQsJ",
+					"expanded_url": "https://twitter.com/gawanmac/status/984865835566141440",
+					"display_url": "twitter.com/gawanmac/statu…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 337292268,
+		"in_reply_to_user_id_str": "337292268",
+		"in_reply_to_screen_name": "D_McMenemy",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 860,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9146,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 984865835566141400,
+		"quoted_status_id_str": "984865835566141440",
+		"quoted_status": {
+			"created_at": "Fri Apr 13 18:48:07 +0000 2018",
+			"id": 984865835566141400,
+			"id_str": "984865835566141440",
+			"text": "I saw this on an OS map and couldn't not investigate. A place of worship symbol in the middle of bloody nowhere on… https://t.co/5CYvYugLN3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5CYvYugLN3",
+						"expanded_url": "https://twitter.com/i/web/status/984865835566141440",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116730408,
+				"id_str": "116730408",
+				"name": "gawanmac",
+				"screen_name": "gawanmac",
+				"location": "",
+				"description": "thoughts are with",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8373,
+				"friends_count": 1100,
+				"listed_count": 57,
+				"created_at": "Tue Feb 23 12:05:36 +0000 2010",
+				"favourites_count": 1242,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12650,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/319531712/100_3675_-_Copy.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/319531712/100_3675_-_Copy.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718000675930652672/FkTgvIjf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718000675930652672/FkTgvIjf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116730408/1399020742",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12694,
+			"favorite_count": 29958,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 14 19:23:59 +0000 2018",
+		"id": 985237247757881300,
+		"id_str": "985237247757881345",
+		"text": "RT @SeanIzaakse: Woah! https://t.co/SZPaFDCBn8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeanIzaakse",
+					"name": "Sean Izaakse",
+					"id": 252751553,
+					"id_str": "252751553",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SZPaFDCBn8",
+					"expanded_url": "https://twitter.com/collider/status/985074180822482945",
+					"display_url": "twitter.com/collider/statu…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 860,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9146,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 14:28:46 +0000 2018",
+			"id": 985162953564524500,
+			"id_str": "985162953564524544",
+			"text": "Woah! https://t.co/SZPaFDCBn8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SZPaFDCBn8",
+						"expanded_url": "https://twitter.com/collider/status/985074180822482945",
+						"display_url": "twitter.com/collider/statu…",
+						"indices": [
+							6,
+							29
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252751553,
+				"id_str": "252751553",
+				"name": "Sean Izaakse",
+				"screen_name": "SeanIzaakse",
+				"location": "Johannesburg, South Africa",
+				"description": "Its pronounced \"Izaacs\" or \"Eye-Zack-Xs\" if that helps. Co-creator of Stray and Exclusive Marvel artist.",
+				"url": "https://t.co/tzB5CgQ6uZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tzB5CgQ6uZ",
+								"expanded_url": "http://sean-izaakse.deviantart.com/",
+								"display_url": "sean-izaakse.deviantart.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2467,
+				"friends_count": 1665,
+				"listed_count": 138,
+				"created_at": "Tue Feb 15 20:52:19 +0000 2011",
+				"favourites_count": 27858,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42694,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115817728/4cdc2ac156e79d9c403e1f5d0d2ebea2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115817728/4cdc2ac156e79d9c403e1f5d0d2ebea2.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978617424563068928/KZC25wJB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978617424563068928/KZC25wJB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252751553/1521211590",
+				"profile_link_color": "113669",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 985074180822483000,
+			"quoted_status_id_str": "985074180822482945",
+			"quoted_status": {
+				"created_at": "Sat Apr 14 08:36:01 +0000 2018",
+				"id": 985074180822483000,
+				"id_str": "985074180822482945",
+				"text": "If the Avengers was made in the 90s... #Marvel #Avengers #InfinityWar https://t.co/EUP1YUuRIf",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Marvel",
+							"indices": [
+								39,
+								46
+							]
+						},
+						{
+							"text": "Avengers",
+							"indices": [
+								47,
+								56
+							]
+						},
+						{
+							"text": "InfinityWar",
+							"indices": [
+								57,
+								69
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 985074168403132400,
+							"id_str": "985074168403132418",
+							"indices": [
+								70,
+								93
+							],
+							"media_url": "http://pbs.twimg.com/media/DauvvK0VAAIqSO8.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DauvvK0VAAIqSO8.jpg",
+							"url": "https://t.co/EUP1YUuRIf",
+							"display_url": "pic.twitter.com/EUP1YUuRIf",
+							"expanded_url": "https://twitter.com/Collider/status/985074180822482945/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1334,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 443,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 782,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 985074168403132400,
+							"id_str": "985074168403132418",
+							"indices": [
+								70,
+								93
+							],
+							"media_url": "http://pbs.twimg.com/media/DauvvK0VAAIqSO8.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DauvvK0VAAIqSO8.jpg",
+							"url": "https://t.co/EUP1YUuRIf",
+							"display_url": "pic.twitter.com/EUP1YUuRIf",
+							"expanded_url": "https://twitter.com/Collider/status/985074180822482945/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1334,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 443,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 782,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 290758912,
+					"id_str": "290758912",
+					"name": "Collider",
+					"screen_name": "Collider",
+					"location": "Burbank, CA",
+					"description": "Read: https://t.co/pPdMy4O7ZG ............................\nWatch: @ColliderVideo ......................\nHigh Impact Entertainment News",
+					"url": "https://t.co/khmk0Yju3w",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/khmk0Yju3w",
+									"expanded_url": "http://collider.com",
+									"display_url": "collider.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/pPdMy4O7ZG",
+									"expanded_url": "http://Collider.com",
+									"display_url": "Collider.com",
+									"indices": [
+										6,
+										29
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 98763,
+					"friends_count": 994,
+					"listed_count": 1117,
+					"created_at": "Sat Apr 30 21:30:43 +0000 2011",
+					"favourites_count": 6666,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 36687,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1B4400",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/600709183302815744/z-yx_xN7.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/600709183302815744/z-yx_xN7.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/755153381782589440/kv9AQ8JR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/755153381782589440/kv9AQ8JR_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/290758912/1523630371",
+					"profile_link_color": "1B4400",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1952,
+				"favorite_count": 4090,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 19,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 985074180822483000,
+		"quoted_status_id_str": "985074180822482945",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 13 21:35:24 +0000 2018",
 		"id": 984907931450830800,
 		"id_str": "984907931450830849",
