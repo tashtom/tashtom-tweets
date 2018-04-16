@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 20:05:11 +0000 2018",
+		"id": 985610003296981000,
+		"id_str": "985610003296980994",
+		"text": "RT @TheOpposition: We give Alex Jones a taste of his own supplement. https://t.co/dMvC17X6AC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheOpposition",
+					"name": "The Opposition",
+					"id": 887344511810252800,
+					"id_str": "887344511810252800",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984812680123994100,
+					"id_str": "984812680123994112",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+					"url": "https://t.co/dMvC17X6AC",
+					"display_url": "pic.twitter.com/dMvC17X6AC",
+					"expanded_url": "https://twitter.com/TheOpposition/status/984813870295470080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984813870295470100,
+					"source_status_id_str": "984813870295470080",
+					"source_user_id": 887344511810252800,
+					"source_user_id_str": "887344511810252800"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984812680123994100,
+					"id_str": "984812680123994112",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+					"url": "https://t.co/dMvC17X6AC",
+					"display_url": "pic.twitter.com/dMvC17X6AC",
+					"expanded_url": "https://twitter.com/TheOpposition/status/984813870295470080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984813870295470100,
+					"source_status_id_str": "984813870295470080",
+					"source_user_id": 887344511810252800,
+					"source_user_id_str": "887344511810252800",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 339406,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/984812680123994112/vid/1280x720/vqbENWknbGFIi6Z9.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/984812680123994112/vid/640x360/7FaWq1QHgZu8e5t4.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/984812680123994112/pl/TabhDFhak8RugkFJ.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/984812680123994112/vid/320x180/Yp6HHyt-rk3ZBKde.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 887344511810252800,
+							"id_str": "887344511810252800",
+							"name": "The Opposition",
+							"screen_name": "TheOpposition",
+							"location": "New York, NY",
+							"description": "@jordanklepper brings you the only truth that matters: his. Weeknights at 11:30/10:30c after The Daily Show. Get free tickets: https://t.co/olGyXaUrUa",
+							"url": "https://t.co/IfYCUMouoS",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/IfYCUMouoS",
+											"expanded_url": "http://www.cc.com/shows/the-opposition-with-jordan-klepper",
+											"display_url": "cc.com/shows/the-oppo…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/olGyXaUrUa",
+											"expanded_url": "http://oppositionshow.com",
+											"display_url": "oppositionshow.com",
+											"indices": [
+												127,
+												150
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 33360,
+							"friends_count": 117,
+							"listed_count": 170,
+							"created_at": "Tue Jul 18 16:13:12 +0000 2017",
+							"favourites_count": 913,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 2497,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/966366287076188161/MEotk56D_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/966366287076188161/MEotk56D_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/887344511810252800/1519238382",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425,
+			"friends_count": 861,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9158,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 15:21:38 +0000 2018",
+			"id": 984813870295470100,
+			"id_str": "984813870295470080",
+			"text": "We give Alex Jones a taste of his own supplement. https://t.co/dMvC17X6AC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984812680123994100,
+						"id_str": "984812680123994112",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+						"url": "https://t.co/dMvC17X6AC",
+						"display_url": "pic.twitter.com/dMvC17X6AC",
+						"expanded_url": "https://twitter.com/TheOpposition/status/984813870295470080/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984812680123994100,
+						"id_str": "984812680123994112",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DarC-CmXUAAY9jv.jpg",
+						"url": "https://t.co/dMvC17X6AC",
+						"display_url": "pic.twitter.com/dMvC17X6AC",
+						"expanded_url": "https://twitter.com/TheOpposition/status/984813870295470080/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 339406,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/984812680123994112/vid/1280x720/vqbENWknbGFIi6Z9.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/984812680123994112/vid/640x360/7FaWq1QHgZu8e5t4.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/984812680123994112/pl/TabhDFhak8RugkFJ.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/984812680123994112/vid/320x180/Yp6HHyt-rk3ZBKde.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887344511810252800,
+				"id_str": "887344511810252800",
+				"name": "The Opposition",
+				"screen_name": "TheOpposition",
+				"location": "New York, NY",
+				"description": "@jordanklepper brings you the only truth that matters: his. Weeknights at 11:30/10:30c after The Daily Show. Get free tickets: https://t.co/olGyXaUrUa",
+				"url": "https://t.co/IfYCUMouoS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IfYCUMouoS",
+								"expanded_url": "http://www.cc.com/shows/the-opposition-with-jordan-klepper",
+								"display_url": "cc.com/shows/the-oppo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/olGyXaUrUa",
+								"expanded_url": "http://oppositionshow.com",
+								"display_url": "oppositionshow.com",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 33360,
+				"friends_count": 117,
+				"listed_count": 170,
+				"created_at": "Tue Jul 18 16:13:12 +0000 2017",
+				"favourites_count": 913,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2497,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966366287076188161/MEotk56D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966366287076188161/MEotk56D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/887344511810252800/1519238382",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3108,
+			"favorite_count": 10822,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3108,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 14 21:40:56 +0000 2018",
 		"id": 985271711527587800,
 		"id_str": "985271711527587840",
