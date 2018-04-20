@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 19 21:31:30 +0000 2018",
+		"id": 987081278372622300,
+		"id_str": "987081278372622337",
+		"text": "RT @mrjamesob: “Unless they were on holiday, in which case fair dinkum.” https://t.co/TIOjrOdAny",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrjamesob",
+					"name": "James O'Brien",
+					"id": 152656121,
+					"id_str": "152656121",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TIOjrOdAny",
+					"expanded_url": "https://twitter.com/davidlammy/status/986977664731942912",
+					"display_url": "twitter.com/davidlammy/sta…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 868,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9231,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 19 15:53:46 +0000 2018",
+			"id": 986996285503885300,
+			"id_str": "986996285503885313",
+			"text": "“Unless they were on holiday, in which case fair dinkum.” https://t.co/TIOjrOdAny",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TIOjrOdAny",
+						"expanded_url": "https://twitter.com/davidlammy/status/986977664731942912",
+						"display_url": "twitter.com/davidlammy/sta…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 152656121,
+				"id_str": "152656121",
+				"name": "James O'Brien",
+				"screen_name": "mrjamesob",
+				"location": "London",
+				"description": "'The radio host is the epitome of a smug, sanctimonious, condescending, obsessively politically-correct, champagne-socialist public schoolboy Remoaner' The Sun",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 312509,
+				"friends_count": 1816,
+				"listed_count": 1613,
+				"created_at": "Sun Jun 06 14:46:00 +0000 2010",
+				"favourites_count": 19712,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39494,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/328998693/twilk_background_4e6e3f7b4fc83.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/328998693/twilk_background_4e6e3f7b4fc83.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/593054903297269761/H2G5kzlv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/593054903297269761/H2G5kzlv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/152656121/1495628790",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 986977664731942900,
+			"quoted_status_id_str": "986977664731942912",
+			"quoted_status": {
+				"created_at": "Thu Apr 19 14:39:47 +0000 2018",
+				"id": 986977664731942900,
+				"id_str": "986977664731942912",
+				"text": "In 2004 Theresa May said \"I find it extraordinary that a Minister isn’t willing just to step up to the plate and ta… https://t.co/htylHqdRgE",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/htylHqdRgE",
+							"expanded_url": "https://twitter.com/i/web/status/986977664731942912",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 18020612,
+					"id_str": "18020612",
+					"name": "David Lammy",
+					"screen_name": "DavidLammy",
+					"location": "Tottenham and Westminster",
+					"description": "Labour MP for Tottenham. Campaigner. Former Minister (Higher Education, Culture, Justice, Health) now on the backbenches telling it like it is. Spurs fan #COYS",
+					"url": "https://t.co/YGsqF2k4JJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/YGsqF2k4JJ",
+									"expanded_url": "http://www.davidlammy.co.uk",
+									"display_url": "davidlammy.co.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 348883,
+					"friends_count": 3919,
+					"listed_count": 1960,
+					"created_at": "Wed Dec 10 14:53:54 +0000 2008",
+					"favourites_count": 6488,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 15303,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/615620009604345856/fqNS8Xg9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/615620009604345856/fqNS8Xg9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/18020612/1518953388",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6125,
+				"favorite_count": 8034,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 287,
+			"favorite_count": 664,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 986977664731942900,
+		"quoted_status_id_str": "986977664731942912",
+		"retweet_count": 287,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 19 19:34:40 +0000 2018",
+		"id": 987051878088310800,
+		"id_str": "987051878088310785",
+		"text": "@tainkirrahe Ironhide doing some probing of his own?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tainkirrahe",
+					"name": "Orion Twax Stans Cyclonus for the D",
+					"id": 4773305188,
+					"id_str": "4773305188",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 987051664422133800,
+		"in_reply_to_status_id_str": "987051664422133761",
+		"in_reply_to_user_id": 4773305188,
+		"in_reply_to_user_id_str": "4773305188",
+		"in_reply_to_screen_name": "tainkirrahe",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 868,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9231,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 19 19:32:37 +0000 2018",
+		"id": 987051358883901400,
+		"id_str": "987051358883901442",
+		"text": "@tainkirrahe look at poor Megatron he's put on far too  much Mascara no wonder he's mad!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tainkirrahe",
+					"name": "Orion Twax Stans Cyclonus for the D",
+					"id": 4773305188,
+					"id_str": "4773305188",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 987050730711408600,
+		"in_reply_to_status_id_str": "987050730711408640",
+		"in_reply_to_user_id": 4773305188,
+		"in_reply_to_user_id_str": "4773305188",
+		"in_reply_to_screen_name": "tainkirrahe",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 868,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9231,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 19 09:18:14 +0000 2018",
+		"id": 986896747015401500,
+		"id_str": "986896747015401472",
+		"text": "RT @HistLibForum: A new guide 'Cataloguing Incunabula', by William Hale, is now available on the Historic Libraries Forum website:   https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistLibForum",
+					"name": "Hist Lib Forum",
+					"id": 473999225,
+					"id_str": "473999225",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 868,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9231,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 18 16:12:02 +0000 2018",
+			"id": 986638492296994800,
+			"id_str": "986638492296994817",
+			"text": "A new guide 'Cataloguing Incunabula', by William Hale, is now available on the Historic Libraries Forum website:… https://t.co/m3LYvCgkxo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m3LYvCgkxo",
+						"expanded_url": "https://twitter.com/i/web/status/986638492296994817",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 473999225,
+				"id_str": "473999225",
+				"name": "Hist Lib Forum",
+				"screen_name": "HistLibForum",
+				"location": "UK",
+				"description": "The Historic Libraries Forum has an interest in historic libraries of all kinds, but particularly those without a natural 'home' in the formal library world.",
+				"url": "http://t.co/XorQlZntgb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XorQlZntgb",
+								"expanded_url": "http://www.historiclibrariesforum.org.uk/",
+								"display_url": "historiclibrariesforum.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1553,
+				"friends_count": 273,
+				"listed_count": 53,
+				"created_at": "Wed Jan 25 15:07:36 +0000 2012",
+				"favourites_count": 212,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1474,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1780421685/books4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1780421685/books4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/473999225/1492526135",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 31,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 18 21:40:21 +0000 2018",
 		"id": 986721118001270800,
 		"id_str": "986721118001270784",
