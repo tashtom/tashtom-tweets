@@ -1,6 +1,2455 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 23:04:42 +0000 2018",
+		"id": 993265325880864800,
+		"id_str": "993265325880864769",
+		"text": "Romance Novelist Trademarks the Word Cocky and goes after others using it!\nhttps://t.co/5UijRJB5JC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5UijRJB5JC",
+					"expanded_url": "http://www.pajiba.com/think_pieces/cocky-writer-romance-author-faleena-hopkins-trademarks-cocky-and-tries-to-shut-down-others-using-the-word.php",
+					"display_url": "pajiba.com/think_pieces/c…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 21:40:25 +0000 2018",
+		"id": 993244114731880400,
+		"id_str": "993244114731880448",
+		"text": "RT @neilhimself: Beautiful @davidmackkabuki Sandman and Death done for @Doodle4NF! Bidding starts on May 10th. https://t.co/UC2rWLsELk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neilhimself",
+					"name": "Neil Gaiman",
+					"id": 18393773,
+					"id_str": "18393773",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "davidmackkabuki",
+					"name": "David Mack",
+					"id": 91942557,
+					"id_str": "91942557",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "Doodle4NF",
+					"name": "Doodle4NF",
+					"id": 118836317,
+					"id_str": "118836317",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UC2rWLsELk",
+					"expanded_url": "https://twitter.com/davidmackkabuki/status/991787235149254662",
+					"display_url": "twitter.com/davidmackkabuk…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 21:18:18 +0000 2018",
+			"id": 993238551570649100,
+			"id_str": "993238551570649095",
+			"text": "Beautiful @davidmackkabuki Sandman and Death done for @Doodle4NF! Bidding starts on May 10th. https://t.co/UC2rWLsELk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "davidmackkabuki",
+						"name": "David Mack",
+						"id": 91942557,
+						"id_str": "91942557",
+						"indices": [
+							10,
+							26
+						]
+					},
+					{
+						"screen_name": "Doodle4NF",
+						"name": "Doodle4NF",
+						"id": 118836317,
+						"id_str": "118836317",
+						"indices": [
+							54,
+							64
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UC2rWLsELk",
+						"expanded_url": "https://twitter.com/davidmackkabuki/status/991787235149254662",
+						"display_url": "twitter.com/davidmackkabuk…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18393773,
+				"id_str": "18393773",
+				"name": "Neil Gaiman",
+				"screen_name": "neilhimself",
+				"location": "a bit all over the place",
+				"description": "will eventually grow up and get a real job. Until then, will keep making things up and writing them down.",
+				"url": "https://t.co/sGHzpfk31g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sGHzpfk31g",
+								"expanded_url": "http://www.neilgaiman.com",
+								"display_url": "neilgaiman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2720490,
+				"friends_count": 928,
+				"listed_count": 35893,
+				"created_at": "Fri Dec 26 19:30:36 +0000 2008",
+				"favourites_count": 6553,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 116777,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "91AAB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/828289182/9c14ac6ec1765204d8c5618271366bec.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/828289182/9c14ac6ec1765204d8c5618271366bec.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942558444351115265/aXaqoK8a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942558444351115265/aXaqoK8a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18393773/1509633491",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 991787235149254700,
+			"quoted_status_id_str": "991787235149254662",
+			"quoted_status": {
+				"created_at": "Wed May 02 21:11:18 +0000 2018",
+				"id": 991787235149254700,
+				"id_str": "991787235149254662",
+				"text": "2 doodles I did for @GillianA's #doodle #charity event. @neilhimself's #Sandman  https://t.co/LZbdxffK4q  &amp;… https://t.co/3MsMwOmEO3",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "doodle",
+							"indices": [
+								32,
+								39
+							]
+						},
+						{
+							"text": "charity",
+							"indices": [
+								40,
+								48
+							]
+						},
+						{
+							"text": "Sandman",
+							"indices": [
+								71,
+								79
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "GillianA",
+							"name": "Gillian Anderson",
+							"id": 625022363,
+							"id_str": "625022363",
+							"indices": [
+								20,
+								29
+							]
+						},
+						{
+							"screen_name": "neilhimself",
+							"name": "Neil Gaiman",
+							"id": 18393773,
+							"id_str": "18393773",
+							"indices": [
+								56,
+								68
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/LZbdxffK4q",
+							"expanded_url": "https://bit.ly/2HBp3UH",
+							"display_url": "bit.ly/2HBp3UH",
+							"indices": [
+								81,
+								104
+							]
+						},
+						{
+							"url": "https://t.co/3MsMwOmEO3",
+							"expanded_url": "https://twitter.com/i/web/status/991787235149254662",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 91942557,
+					"id_str": "91942557",
+					"name": "David Mack",
+					"screen_name": "davidmackkabuki",
+					"location": "JESSICA JONES & Captain America: Winter Soldier film titles art",
+					"description": "Emmy Award nom, New York Times Best Selling author: KABUKI, Marvel's Daredevil. Jessica Jones titles art, American Gods covers. Ambassador for the US State Dept",
+					"url": "https://t.co/28EQCn6WBZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/28EQCn6WBZ",
+									"expanded_url": "https://www.facebook.com/pages/David-Mack/21231086294",
+									"display_url": "facebook.com/pages/David-Ma…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 22792,
+					"friends_count": 935,
+					"listed_count": 906,
+					"created_at": "Mon Nov 23 05:17:04 +0000 2009",
+					"favourites_count": 49401,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 41076,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDECE9",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/55455927/alchemy_hc.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/55455927/alchemy_hc.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/739300189471707138/y0Eoq4d6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/739300189471707138/y0Eoq4d6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/91942557/1522004885",
+					"profile_link_color": "088253",
+					"profile_sidebar_border_color": "D3D2CF",
+					"profile_sidebar_fill_color": "E3E2DE",
+					"profile_text_color": "634047",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23,
+				"favorite_count": 118,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 30,
+			"favorite_count": 213,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 991787235149254700,
+		"quoted_status_id_str": "991787235149254662",
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 21:20:23 +0000 2018",
+		"id": 993239072784216000,
+		"id_str": "993239072784216066",
+		"text": "@razumova Good grief!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "razumova",
+					"name": "Jessica Rydill",
+					"id": 81985892,
+					"id_str": "81985892",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 993238910112358400,
+		"in_reply_to_status_id_str": "993238910112358400",
+		"in_reply_to_user_id": 81985892,
+		"in_reply_to_user_id_str": "81985892",
+		"in_reply_to_screen_name": "razumova",
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 21:16:30 +0000 2018",
+		"id": 993238095238762500,
+		"id_str": "993238095238762496",
+		"text": "RT @WulfgarTheBard: 4856 deaths by spear this year in Mercia, including 202 children and 82 mass spearings compared to 62 deaths due to kni…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WulfgarTheBard",
+					"name": "Wulfgar the Bard",
+					"id": 453514292,
+					"id_str": "453514292",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 05 15:33:16 +0000 2018",
+			"id": 992789331801792500,
+			"id_str": "992789331801792513",
+			"text": "4856 deaths by spear this year in Mercia, including 202 children and 82 mass spearings compared to 62 deaths due to… https://t.co/sAhwfrehO0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sAhwfrehO0",
+						"expanded_url": "https://twitter.com/i/web/status/992789331801792513",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 453514292,
+				"id_str": "453514292",
+				"name": "Wulfgar the Bard",
+				"screen_name": "WulfgarTheBard",
+				"location": "Dairsie, Fife, Scotland",
+				"description": "Mike Middleton: Views are all my own.",
+				"url": "http://t.co/1ab3shTtLi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1ab3shTtLi",
+								"expanded_url": "http://www.dairsieonline.co.uk/Wulfgar/Wulfgar_home.html",
+								"display_url": "dairsieonline.co.uk/Wulfgar/Wulfga…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5313,
+				"friends_count": 680,
+				"listed_count": 93,
+				"created_at": "Tue Jan 03 00:42:03 +0000 2012",
+				"favourites_count": 6813,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839241448692285449/3uagNl-m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839241448692285449/3uagNl-m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/453514292/1354216246",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 186,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 21:15:41 +0000 2018",
+		"id": 993237891689132000,
+		"id_str": "993237891689132034",
+		"text": "RT @mikegalsworthy: OMFG... Femi (@Femi_Sorry) opens brilliantly on the pointless costly Brexit options our confused government is stugglin…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikegalsworthy",
+					"name": "Mike Galsworthy #FBPE",
+					"id": 34247411,
+					"id_str": "34247411",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "Femi_Sorry",
+					"name": "Femi",
+					"id": 234694571,
+					"id_str": "234694571",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 20:35:09 +0000 2018",
+			"id": 993227690810454000,
+			"id_str": "993227690810454017",
+			"text": "OMFG... Femi (@Femi_Sorry) opens brilliantly on the pointless costly Brexit options our confused government is stug… https://t.co/tfuyCd89Tl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Femi_Sorry",
+						"name": "Femi",
+						"id": 234694571,
+						"id_str": "234694571",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tfuyCd89Tl",
+						"expanded_url": "https://twitter.com/i/web/status/993227690810454017",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34247411,
+				"id_str": "34247411",
+				"name": "Mike Galsworthy #FBPE",
+				"screen_name": "mikegalsworthy",
+				"location": "London, UK",
+				"description": "Founder of @Scientists4EU + @HealthierIn the EU. Tweets EU & UK science policy, Brexit, health policy, NHS. Periscope: https://t.co/88nea2IiUk",
+				"url": "https://t.co/wIyqxO9iA7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIyqxO9iA7",
+								"expanded_url": "http://www.scientistsforeu.uk",
+								"display_url": "scientistsforeu.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/88nea2IiUk",
+								"expanded_url": "https://www.pscp.tv/mikegalsworthy",
+								"display_url": "pscp.tv/mikegalsworthy",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60234,
+				"friends_count": 46079,
+				"listed_count": 507,
+				"created_at": "Wed Apr 22 11:41:40 +0000 2009",
+				"favourites_count": 20847,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14741,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/909732198315589633/-eDLDwpc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/909732198315589633/-eDLDwpc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34247411/1471275988",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 993181347580694500,
+			"quoted_status_id_str": "993181347580694528",
+			"quoted_status": {
+				"created_at": "Sun May 06 17:31:00 +0000 2018",
+				"id": 993181347580694500,
+				"id_str": "993181347580694528",
+				"text": "Tory MP @JohnRedwood refuses to debate Brexit and the Customs Union with @Femi_Sorry https://t.co/bYrqywmaFd",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "johnredwood",
+							"name": "John Redwood",
+							"id": 93880122,
+							"id_str": "93880122",
+							"indices": [
+								8,
+								20
+							]
+						},
+						{
+							"screen_name": "Femi_Sorry",
+							"name": "Femi",
+							"id": 234694571,
+							"id_str": "234694571",
+							"indices": [
+								73,
+								84
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 993180952544333800,
+							"id_str": "993180952544333826",
+							"indices": [
+								85,
+								108
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993180952544333826/pu/img/m1fLvWaWX6XyAe3a.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993180952544333826/pu/img/m1fLvWaWX6XyAe3a.jpg",
+							"url": "https://t.co/bYrqywmaFd",
+							"display_url": "pic.twitter.com/bYrqywmaFd",
+							"expanded_url": "https://twitter.com/OFOCBrexit/status/993181347580694528/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 993180952544333800,
+							"id_str": "993180952544333826",
+							"indices": [
+								85,
+								108
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/993180952544333826/pu/img/m1fLvWaWX6XyAe3a.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/993180952544333826/pu/img/m1fLvWaWX6XyAe3a.jpg",
+							"url": "https://t.co/bYrqywmaFd",
+							"display_url": "pic.twitter.com/bYrqywmaFd",
+							"expanded_url": "https://twitter.com/OFOCBrexit/status/993181347580694528/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									4,
+									3
+								],
+								"duration_millis": 85680,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/993180952544333826/pu/pl/yINbKwfTRg0nwuTc.m3u8?tag=3"
+									},
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/993180952544333826/pu/vid/240x180/bDavdsTLP14qMn8C.mp4?tag=3"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/993180952544333826/pu/vid/960x720/Moo1a2MZ-ZGyP08O.mp4?tag=3"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/993180952544333826/pu/vid/480x360/2VSGF9pGrmPki9z4.mp4?tag=3"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 921150046644600800,
+					"id_str": "921150046644600832",
+					"name": "Our Future, Our Choice!",
+					"screen_name": "OFOCBrexit",
+					"location": "United Kingdom",
+					"description": "Theresa May's Brexit Deal will deprive young people of opportunities left, right, and centre. We need a #PeoplesVote on the deal! \nmedia req: will@ofoc.co.uk",
+					"url": "https://t.co/xxGgz6QGUg",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/xxGgz6QGUg",
+									"expanded_url": "http://ofoc.co.uk",
+									"display_url": "ofoc.co.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 20255,
+					"friends_count": 48,
+					"listed_count": 101,
+					"created_at": "Thu Oct 19 23:04:20 +0000 2017",
+					"favourites_count": 502,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1079,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/981461906920804352/x9K4yNBa_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/981461906920804352/x9K4yNBa_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/921150046644600832/1525282022",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1797,
+				"favorite_count": 2628,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 545,
+			"favorite_count": 1011,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 993181347580694500,
+		"quoted_status_id_str": "993181347580694528",
+		"retweet_count": 545,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 20:22:39 +0000 2018",
+		"id": 993224547263533000,
+		"id_str": "993224547263533061",
+		"text": "RT @TriciaMarwick: The former Speaker @ForcadellCarme is in jail without trial because she permitted debate and supported the Will of the C…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TriciaMarwick",
+					"name": "Tricia Marwick",
+					"id": 2862226090,
+					"id_str": "2862226090",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "ForcadellCarme",
+					"name": "Carme Forcadell",
+					"id": 2347190174,
+					"id_str": "2347190174",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 05 19:12:00 +0000 2018",
+			"id": 992844378870820900,
+			"id_str": "992844378870820864",
+			"text": "The former Speaker @ForcadellCarme is in jail without trial because she permitted debate and supported the Will of… https://t.co/8r4FSDrLlA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ForcadellCarme",
+						"name": "Carme Forcadell",
+						"id": 2347190174,
+						"id_str": "2347190174",
+						"indices": [
+							19,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8r4FSDrLlA",
+						"expanded_url": "https://twitter.com/i/web/status/992844378870820864",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2862226090,
+				"id_str": "2862226090",
+				"name": "Tricia Marwick",
+				"screen_name": "TriciaMarwick",
+				"location": "Markinch, Scotland",
+				"description": "Tricia Marwick, Presiding Officer of Scottish Parliament 2011-16. MSP from 1999-2016. Comments mostly on Democracy, Referenda and Catalonia. I speak for me.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6607,
+				"friends_count": 401,
+				"listed_count": 42,
+				"created_at": "Wed Nov 05 10:02:55 +0000 2014",
+				"favourites_count": 12627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7751,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770090268712468481/8k-H2CKb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770090268712468481/8k-H2CKb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2862226090/1472438783",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 992690753469067300,
+			"quoted_status_id_str": "992690753469067265",
+			"quoted_status": {
+				"created_at": "Sat May 05 09:01:33 +0000 2018",
+				"id": 992690753469067300,
+				"id_str": "992690753469067265",
+				"text": "‘The government warns Torrent what happened to Forcadell.’ In other words, ‘we told a judge to lock her up and they… https://t.co/qlIiRdXbLi",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/qlIiRdXbLi",
+							"expanded_url": "https://twitter.com/i/web/status/992690753469067265",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 88650307,
+					"id_str": "88650307",
+					"name": "Tim Parfitt",
+					"screen_name": "tjparfitt",
+					"location": "Barcelona & Madrid",
+					"description": "Author, producer, Spain & Catalonia correspondent, @WeeklyNoticias host. 'A Load of Bull: An Englishman's Adventures in Madrid'; Soon 'The Barcelona Connection'",
+					"url": "https://t.co/XoJjXEv2Rq",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/XoJjXEv2Rq",
+									"expanded_url": "http://www.timothyparfitt.com",
+									"display_url": "timothyparfitt.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 12732,
+					"friends_count": 2986,
+					"listed_count": 158,
+					"created_at": "Mon Nov 09 12:08:46 +0000 2009",
+					"favourites_count": 33593,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 6202,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/809176586310352896/WXOp3yDZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/809176586310352896/WXOp3yDZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/88650307/1398375171",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 563,
+				"favorite_count": 404,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1071,
+			"favorite_count": 896,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 992690753469067300,
+		"quoted_status_id_str": "992690753469067265",
+		"retweet_count": 1071,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 20:09:11 +0000 2018",
+		"id": 993221155103404000,
+		"id_str": "993221155103404038",
+		"text": "RT @elizadushku: Incredible. Powerful. Important. https://t.co/gXLqzV9Vsu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizadushku",
+					"name": "Eliza Dushku",
+					"id": 34747631,
+					"id_str": "34747631",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gXLqzV9Vsu",
+					"expanded_url": "https://twitter.com/donaldglover/status/992977461850836993",
+					"display_url": "twitter.com/donaldglover/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 19:06:14 +0000 2018",
+			"id": 993205312491532300,
+			"id_str": "993205312491532288",
+			"text": "Incredible. Powerful. Important. https://t.co/gXLqzV9Vsu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gXLqzV9Vsu",
+						"expanded_url": "https://twitter.com/donaldglover/status/992977461850836993",
+						"display_url": "twitter.com/donaldglover/s…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34747631,
+				"id_str": "34747631",
+				"name": "Eliza Dushku",
+				"screen_name": "elizadushku",
+				"location": "Around the World",
+				"description": "Official Eliza Dushku. Be forewarned: I'm accused of speaking my own language here… Support @mapplethorpemov on Indiegogo! ⬇️",
+				"url": "https://t.co/TEaHg2Va93",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TEaHg2Va93",
+								"expanded_url": "http://www.igg.me/at/mapplethorpe",
+								"display_url": "igg.me/at/mapplethorpe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1849299,
+				"friends_count": 1557,
+				"listed_count": 18871,
+				"created_at": "Thu Apr 23 22:09:01 +0000 2009",
+				"favourites_count": 6651,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E051E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/204862752/elizadushku-twitter_1_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/204862752/elizadushku-twitter_1_.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766633006022922240/mevy2uH1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766633006022922240/mevy2uH1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34747631/1485919065",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "69D658",
+				"profile_sidebar_fill_color": "EAF72D",
+				"profile_text_color": "01010A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 992977461850837000,
+			"quoted_status_id_str": "992977461850836993",
+			"quoted_status": {
+				"created_at": "Sun May 06 04:00:50 +0000 2018",
+				"id": 992977461850837000,
+				"id_str": "992977461850836993",
+				"text": "this is america https://t.co/8dTR4W6csW",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/8dTR4W6csW",
+							"expanded_url": "http://smarturl.it/tciga",
+							"display_url": "smarturl.it/tciga",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19279990,
+					"id_str": "19279990",
+					"name": "donald",
+					"screen_name": "donaldglover",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2187845,
+					"friends_count": 0,
+					"listed_count": 14127,
+					"created_at": "Wed Jan 21 07:32:47 +0000 2009",
+					"favourites_count": 1,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 19,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542569666095230976/jHCaxYJn.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542569666095230976/jHCaxYJn.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/992977342598406144/D1uBhNwy_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/992977342598406144/D1uBhNwy_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19279990/1525579223",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 87571,
+				"favorite_count": 189761,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 15,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 992977461850837000,
+		"quoted_status_id_str": "992977461850836993",
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 20:01:23 +0000 2018",
+		"id": 993219193154699300,
+		"id_str": "993219193154699265",
+		"text": "RT @rickygervais: I made my peace with God. https://t.co/QHiJ7wQMZg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rickygervais",
+					"name": "Ricky Gervais",
+					"id": 20015311,
+					"id_str": "20015311",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 993111018787270700,
+					"id_str": "993111018787270656",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+					"url": "https://t.co/QHiJ7wQMZg",
+					"display_url": "pic.twitter.com/QHiJ7wQMZg",
+					"expanded_url": "https://twitter.com/rickygervais/status/993111268130246657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993111268130246700,
+					"source_status_id_str": "993111268130246657",
+					"source_user_id": 20015311,
+					"source_user_id_str": "20015311"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993111018787270700,
+					"id_str": "993111018787270656",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+					"url": "https://t.co/QHiJ7wQMZg",
+					"display_url": "pic.twitter.com/QHiJ7wQMZg",
+					"expanded_url": "https://twitter.com/rickygervais/status/993111268130246657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993111268130246700,
+					"source_status_id_str": "993111268130246657",
+					"source_user_id": 20015311,
+					"source_user_id_str": "20015311"
+				},
+				{
+					"id": 993111167672430600,
+					"id_str": "993111167672430592",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcg9WGOWsAAppKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcg9WGOWsAAppKZ.jpg",
+					"url": "https://t.co/QHiJ7wQMZg",
+					"display_url": "pic.twitter.com/QHiJ7wQMZg",
+					"expanded_url": "https://twitter.com/rickygervais/status/993111268130246657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993111268130246700,
+					"source_status_id_str": "993111268130246657",
+					"source_user_id": 20015311,
+					"source_user_id_str": "20015311"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 12:52:32 +0000 2018",
+			"id": 993111268130246700,
+			"id_str": "993111268130246657",
+			"text": "I made my peace with God. https://t.co/QHiJ7wQMZg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 993111018787270700,
+						"id_str": "993111018787270656",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+						"url": "https://t.co/QHiJ7wQMZg",
+						"display_url": "pic.twitter.com/QHiJ7wQMZg",
+						"expanded_url": "https://twitter.com/rickygervais/status/993111268130246657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 987,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 987,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 993111018787270700,
+						"id_str": "993111018787270656",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcg9NblXcAAH04d.jpg",
+						"url": "https://t.co/QHiJ7wQMZg",
+						"display_url": "pic.twitter.com/QHiJ7wQMZg",
+						"expanded_url": "https://twitter.com/rickygervais/status/993111268130246657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 987,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 987,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 993111167672430600,
+						"id_str": "993111167672430592",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcg9WGOWsAAppKZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcg9WGOWsAAppKZ.jpg",
+						"url": "https://t.co/QHiJ7wQMZg",
+						"display_url": "pic.twitter.com/QHiJ7wQMZg",
+						"expanded_url": "https://twitter.com/rickygervais/status/993111268130246657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1011,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 573,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1011,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20015311,
+				"id_str": "20015311",
+				"name": "Ricky Gervais",
+				"screen_name": "rickygervais",
+				"location": "Earth",
+				"description": "Godless Ape. Comedian, Actor, Writer, Director. #TheOffice #Extras #Derek #TheRickyGervaisShow #Flanimals #LifeOnTheRoad #Humanity #DeadlySirius",
+				"url": "https://t.co/SY2wn8O6vt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SY2wn8O6vt",
+								"expanded_url": "http://www.rickygervais.com",
+								"display_url": "rickygervais.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13275325,
+				"friends_count": 1246,
+				"listed_count": 29330,
+				"created_at": "Wed Feb 04 00:00:12 +0000 2009",
+				"favourites_count": 52370,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49788,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689961887652548610/QdF7Md9l.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689961887652548610/QdF7Md9l.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/642744174744313857/VaPUCm3l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/642744174744313857/VaPUCm3l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20015311/1519933007",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9150,
+			"favorite_count": 48877,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9150,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 11:57:14 +0000 2018",
+		"id": 993097352914366500,
+		"id_str": "993097352914366465",
+		"text": "It's morphin time! #powerrangers #greenranger #tommy… https://t.co/xlZiSocLKn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "powerrangers",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"text": "greenranger",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"text": "tommy",
+					"indices": [
+						46,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xlZiSocLKn",
+					"expanded_url": "https://www.instagram.com/p/Bib2PouHIi7/?utm_source=twitter",
+					"display_url": "instagram.com/p/Bib2PouHIi7/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43975008,
+			"id_str": "43975008",
+			"name": "Thomas Ash",
+			"screen_name": "tashtom",
+			"location": "London",
+			"description": "#Citylis alumna, Information Resources Assistant @LibraryStMarys, father, blogger, otaku, comic book geek & artist.\rKnows a thing or two about copyright.",
+			"url": "https://t.co/sHjX3fZT4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sHjX3fZT4p",
+							"expanded_url": "http://www.thomasash.wordpress.com",
+							"display_url": "thomasash.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 875,
+			"listed_count": 54,
+			"created_at": "Mon Jun 01 21:17:45 +0000 2009",
+			"favourites_count": 9628,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28915969/jpanese_garden.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924037257052545024/oSM9eD2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43975008/1497645641",
+			"profile_link_color": "34ADD9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0F2D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 05 16:49:12 +0000 2018",
 		"id": 992808439318483000,
 		"id_str": "992808439318482945",
